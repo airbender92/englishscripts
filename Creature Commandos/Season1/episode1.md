@@ -34,36 +34,104 @@ The Sons are said to be working at the behest of the rogue Amazonian and reputed
 
 <!-- 
 瑟茜宣称自己是忒弥斯库拉岛王位的合法继承人，这个全是女性的岛国，或许只是传说，或许真实存在。
+
+“claims to be” 是一个常用表达，由 “claim（声称；宣称）” 和 “to be（是）” 构成，整体意思为 **“声称是；宣称自己是”**，用于表明某人公开且自信地陈述某件事，尤其是在这件事尚未被证实或可能存在争议的情况下 。
+
+“the rightful heir” 指 合法继承人。其中，“rightful” 意为 “合法的；正当的；理应享有的”，强调基于法律、道德或传统等因素，某人对某物拥有合理且正当的权利；
+heir 的音标：英 [eə(r)]；美 [er]。 “heir” 表示 “继承人”，尤指有权利继承财产、头衔、地位等的人。
+
+“the throne of” 表示 “…… 的王位；…… 的宝座” 。“throne” [θrəʊn] 常见意思为 “王位；宝座；御座” ，该短语用于表明所属关系，即具体某个国家、地区或特定情境下王位的归属范畴。
  -->
 Circe claims to be the rightful heir to the throne of the perhaps mythical, perhaps real, all-female island nation of Themyscira.
 
+<!-- 据内部消息称，瑟茜已向 “忒弥斯库拉之子” 承诺，一旦波科利斯坦覆灭，她将带领他们征服忒弥斯库拉。
+
+“Inside sources” 指 “内部消息来源”“内部人士”。
+
+“the downfall of” 意思是 “…… 的垮台；…… 的衰落；…… 的覆灭” ，用于描述某个事物从兴盛走向衰败、崩溃或毁灭的状态或过程，其中 “downfall” 是名词，意为 “垮台；衰落；衰败的原因” 。
+
+“is achieved” 是 “achieve” 的一般现在时被动语态形式，“achieve” 常见意思为 “完成；实现；达到”，“is achieved” 可理解为 “被实现；被达成；被完成” ，强调动作的承受者成为实现某一目标或结果的对象 。
+
+“conquer” 英式读音：[ˈkɒŋkə(r)] 美式读音：[ˈkɑːŋkər] 战胜；击败
+
+ -->
 Inside sources claim Circe has promised the Sons that once the downfall of Pokolistan is achieved, she will lead them to conquer Themyscira.
 
+<!-- 我是说，说真的，忒弥斯库拉是有史以来最棒的地方。然后你却告诉我，“哦，伙计，只有女人能住在那儿”？
+这里 “sickest” 在口语中有 “最棒的；极酷的” 的意思 ，是一种比较夸张、随意的表达。
+
+ -->
 I mean, seriously, Themyscira is the sickest place ever. And then you tell me, "Oh, dude, only women can live there"?
 
+<!-- 啥？兄弟，她们也太性别歧视了。听说那儿有超级壮观的瀑布。
+解析：“sexist” 意为 “性别歧视的” ；“Word is...” 是一种口语表达，相当于 “It is said that...”，意思是 “听说；据说” ；
+“incredible” 在这里表示 “惊人的；难以置信的” ，形容瀑布非常壮观。 -->
 [chuckles] What? They're so sexist, bro. Word is they have the most incredible waterfalls.
 
+<!-- 我有个问题要问所有那些自诩觉醒的女权主义者。
+“woke” 英 [wəʊk]；美 [woʊk]  原意为 “醒着的”，在现代语境中常指 “对社会不公，尤其是种族和社会正义问题保持警觉的” ，
+这里 “woke feminists” 可理解为那些自认为对女性权益等问题有深刻认识并积极倡导相关理念的女权主义者，但说话者用此表述或许带有一定调侃或质疑的态度 。 
+“feminists” 是 “feminist” 的复数形式，读音：英 [ˈfemɪnɪsts]，美 [ˈfemənɪsts] 。
+“feminist” 作名词时，意为 “女权主义者”，指主张男女平等，致力于为女性争取政治、经济、社会等各方面平等权利，消除性别歧视的人 
+'out there'（用于强调特定群体）在那（群人）当中：常跟在表示特定人群的词后，突出在这类人之中
+-->
 I have this question for all the woke feminists out there,
  
+ <!-- 为什么只有女孩能拥有如此绝妙的瀑布呢？ -->
 why do only girls get such cool waterfalls?
 
+<!-- 在全世界范围内，我们男性的权利正遭到贬低。
+“denigrate” [ˈdenɪɡreɪt]  意思是诋毁、贬低，这句话表达说话者认为男性权利在全球范围内未得到应有的重视，甚至被轻视、贬低。 -->
 All over the world, our rights as men are being denigrated.
 
 - [switches off TV]
+<!-- 这句话直译为 “真是一群小丑” ，常用来轻蔑地形容一群人愚蠢、可笑，行为或言论荒唐，不值得认真对待。
+“a bunch of” 是一个常用的短语，意思是 “一群；一束；一堆；一套” ，用于描述多个事物或人的集合，通常带有一定的非正式口吻，在口语和书面语中都较为常见
+clown: 蠢货；笨蛋
+ -->
 - What a bunch of clowns.
 
+<!-- 危险的小丑。波科利斯坦是美国的盟友。 -->
 Dangerous clowns. Pokolistan is a friend of the US.
 
+<!-- 将军，您在军队服役了几十年，应该明白国家之间并无所谓的朋友。
+“General Flag” 可直译为 “弗拉格将军” 。“General” 常见意思为 “将军” ，是军事领域的高级军衔或职务称呼；“Flag” 在这里作为人名，音译为 “弗拉格” 。
+ -->
 Countries don't have friends After your decades in the military, General Flag,
 
+<!-- 我想你应该明白，真正的友谊是建立在石油储备之上的。
+petroleum：英 [pəˈtrəʊliəm]；美 [pəˈtroʊliəm]
+deposits：英 [dɪˈpɒsɪts]；美 [dɪˈpɑːsɪts]
+“petroleum deposits” 常见释义为 “石油储量；石油矿床” 。其中 “petroleum” 意为 “石油”，“deposits” 在此处指 “矿床；蕴藏量” 。
+ -->
 I think you'd understand that true friendship is built on petroleum deposits.
 
+<!-- 
+尤其是那些位于极度落后国家、尚未开采的石油储量，这些国家从未有效利用过自身的自然资源。
+这里 “backward-ass” 是一种比较粗俗、强调程度的表达，用以突出国家的落后；“taken advantage of” 表示 “利用” 。
+这里的“unmined” [ʌnˈmaɪnd]；是形容词，意思是“未开采的” 用来修饰 “ones”（指代前文提到的石油储备）
+ -->
 Especially unmined ones in a backward-ass country that's never taken advantage of their natural resources.
 
+<!-- 
+伊拉娜・罗斯托维奇公主，波科利斯坦的王位继承人 。
+在 “heir apparent” 这个短语中，“apparent” 并非"明显的；显而易见的"，整个短语是一个固定表达，意为 “法定继承人；有确定继承权的人” ，其中 “apparent” 可理解为 “有明显继承权的” 。
+ -->
 Princess Ilana Rostovic, the heir apparent to Pokolistan,
 
+<!-- 已在就石油一事与美国进行谈判。
+[nɪˈɡəʊʃieɪtɪŋ]；“negotiating” 是 “negotiate” 的现在分词形式，“negotiate with sb.” 意思是 “与某人谈判、协商” ，强调双方就某事进行讨论、磋商，以达成协议或解决问题 。
+ -->
 is already negotiating with the US for that oil.
 
+<!-- 
+要是她被某个戴着女巫帽的疯子推翻，那一切就都泡汤了。
+这里 “overthrown” 意为 “推翻”，“nutjob” 指 “疯子”，“all bets are off” 是习语，意思是之前的计划、预期等不再有效，一切都不确定了。
+“overthrown”: 英 [ˌəʊvəˈθrəʊn]；美 [ˌoʊvərˈθroʊn] 。它是动词 overthrow 的过去分词，意为 “推翻；打倒；颠覆”。
+“nutjob” 是一个非正式且带有贬义的英语词汇，音标：英 [ˈnʌtdʒəʊb]；美 [ˈnʌtdʒoʊb] 。它用来形容行为古怪、疯狂或精神不太正常的人，可译为 “疯子”“怪人” 
+“in a witch's hat” 字面意思是 “戴着一顶女巫的帽子” 。
+bets: [bets],  “打赌；赌注”
+ -->
 And if she's overthrown by some nutjob in a witch's hat, all bets are off.
 
 We need to help Rostovic. I thought Congress put a stop to all Task Force X activities since your daughter outed you.
