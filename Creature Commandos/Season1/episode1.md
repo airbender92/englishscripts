@@ -1,12 +1,40 @@
 ##  Creature Commandos 
+[original show](https://www.whyqyy.com/cg/shengwutujidui2024/1-1.html)
+[original scripts](https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=creature-commandos-2024&episode=s01e01)
 
-[original resource](https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=creature-commandos-2024&episode=s01e01)
+<!-- 
+这个自称 “忒弥斯库拉之子” 的营队，强行越过边境进入了波科利斯坦。 
 
+battalion 的音标：英 [bəˈtæliən]，美 [bəˈtæliən] 。
+它常见的词性为名词，主要有以下含义：
+军事术语：“营”，军队的编制单位 。例如：The battalion is responsible for guarding this area.（这个营负责守卫这一区域。）
+表示大量人群：“大批，大群”。例如：A battalion of volunteers showed up to help with the relief work.（一大群志愿者前来协助救援工作。）
 
+calling themselves: 自称；自称为
+
+-->
 *[reporter]*  The battalion, calling themselves the Sons of Themyscira, violently crossed the border into Pokolistan.
 
+<!-- 
+据说，这些 “儿子” 们是应叛逆的亚马逊女战士、声名远扬的女巫瑟茜的要求行事。
+
+“are said to be” 是 “be said to do” 结构的一种形式，属于被动语态表达，意为 “据说……”
+
+“at the behest of” 是一个固定短语，意为 “应…… 的要求；在…… 的吩咐下” ，常用来表明某个行为或事件是因为他人的指示、请求而发生。
+
+rogue 的音标：英 [rəʊɡ]，美 [roʊɡ] 。
+作名词时，常见释义为 “流氓；无赖；调皮捣蛋的人；离群的野兽”；作形容词时，常见释义为 “ 恶劣的；失常的；离群的” 。
+
+reputed sorceress: reputed：英 [rɪˈpjuːtɪd]；美 [rɪˈpjuːtɪd] 。sorceress：英 [ˈsɔːsərəs]；美 [ˈsɔːrsərəs]
+“reputed sorceress” 意思是 “ 传闻中的女巫；号称的女巫” 。“reputed” 表示 “据说的；传闻的；号称的” ，强调某事物或人的名声是基于一般的说法或传闻 。“sorceress” 指 “女巫；女魔法师” 。
+
+ -->
 The Sons are said to be working at the behest of the rogue Amazonian and reputed sorceress, Circe.
 
+
+<!-- 
+瑟茜宣称自己是忒弥斯库拉岛王位的合法继承人，这个全是女性的岛国，或许只是传说，或许真实存在。
+ -->
 Circe claims to be the rightful heir to the throne of the perhaps mythical, perhaps real, all-female island nation of Themyscira.
 
 Inside sources claim Circe has promised the Sons that once the downfall of Pokolistan is achieved, she will lead them to conquer Themyscira.
