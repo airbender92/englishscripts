@@ -134,80 +134,181 @@ bets: [bets],  “打赌；赌注”
  -->
 And if she's overthrown by some nutjob in a witch's hat, all bets are off.
 
+<!-- 我们得帮帮罗斯托维奇。我原以为自从你女儿揭露了你，国会就叫停了 X 特遣队的所有行动。
+“I thought...” 引出说话者原本的想法，“put a stop to” 意为 “停止，终止”，
+“outed you” 是 “out” 作为动词的一种用法，这里 “out” 表示 “揭露、使公开（尤指揭露某人的秘密，如身份、行为等）”，“outed you” 意思是 “揭露了你” 。
+ -->
 We need to help Rostovic. I thought Congress put a stop to all Task Force X activities since your daughter outed you.
 
-[Waller] Technically, Congress said A.R.G.U.S. can't use incarcerated human beings as mission operatives
-any longer.
+<!-- 
+从严格意义上讲，国会表示 A.R.G.U.S. 不能再将被监禁的人员用作执行任务的特工。
+“Technically” 常见意思为 “从技术角度；严格来说” ，在这里表明对后面内容的一种严谨限定。
+“incarcerated” 英 [ɪnˈkɑːsəreɪtɪd]；美 [ɪnˈkɑːrsəreɪtɪd] 是形容词，意为 “被监禁的” ，修饰 “human beings”（人）。
+“mission operatives” 指执行任务的特工、操作人员 。
+operatives 的音标：英 [ˈɒpərətɪvz]；美 [ˈɑːpəreɪtɪvz] 。a:（公司、组织等的）工作人员，雇员尤指在某方面有实际操作能力或执行任务的人员。b:特工；密探
+指从事秘密工作，收集情报等的人员。
+ -->
+[Waller] Technically, Congress said A.R.G.U.S. can't use incarcerated human beings as mission operatives any longer.
 
+<!-- 但那些非人类的生物呢？ -->
 But what about beings that aren't human?
 
 [door unlocks]
 
+<!-- “哈？这到底搞什么鬼？”
+“Huh?” 是一个语气词，常用来表示疑惑、惊讶或没听清对方说话，希望对方重复。
+What in the holy hell?” 是一种比较强烈、带有惊讶和不满情绪的表达方式，“in the holy hell ” 起强调作用，类似于 “What on earth?” ，但语气更重，表达说话者对所看到、听到或经历的事情感到极度惊讶、困惑或恼怒。
+ -->
 Huh? What in the holy hell?
 
+<!-- 
+这里是 Belle Reve 非人类拘禁部门。
+“internment” 的音标：英 [ɪnˈtɜːnmənt]；美 [ɪnˈtɜːrnmənt] 。它是名词，意为 “拘留；扣押；禁闭” ，尤指在战争或紧急情况下，对人员（通常是敌国公民或被认为对国家安全有威胁的人）进行强制性关押。
+“division” 的音标：英 [dɪˈvɪʒn]；美 [dɪˈvɪʒn]  部门
+ -->
 [Waller] This is the Belle Reve Non-Human Internment Division.
 
+<!--五十多年来，只有那些拥有最高安全许可级别的人员才知晓它的存在。
+“the uppermost levels” 常见意思为 “最高层级；最高级别” ，常用来描述在组织架构、等级体系等中处于最顶端的部分。
+“security clearance” 的音标：英 [sɪˈkjʊərəti ˈklɪərəns]；美 [sɪˈkjʊrəti ˈklɪrəns] 。
+该短语意为 “安全许可”，指相关机构对个人进行审查后，确认其可以接触特定机密信息、进入特定安全区域等的许可。
+ “are aware of” 是 “be aware of” 的复数形式，意为 “意识到；知道；察觉到” ，强调对某事物有一定的认知或觉察。
+ -->
 For over 50 years, only those at the uppermost levels of security clearance are aware of its existence.
 
+<!-- 通过利用这些囚犯，我认为可以说我们能够规避新的限制。
+“prisoners” 的音标：英 [ˈprɪznəz]；美 [ˈprɪznərz] ，是 “prisoner” 的复数形式，意思为 “囚犯；犯人” 。
+arguably：英 [ˈɑːɡjuəbli]；美 [ˈɑːrɡjuəbli] 可论证地；按理；可以说
+circumvent：英 [ˌsɜːkəmˈvent]；美 [ˌsɜːrkəmˈvent] 设法回避；规避；绕开；绕行；绕道走
+restrictions: [rɪˈstrɪkʃənz]；美 [rɪˈstrɪkʃənz] 。它是 restriction 的复数形式，意为 “限制规定；限制措施；制约因素” 。
+ -->
 By using these prisoners, I think we can arguably circumvent our new restrictions.
 
+<!-- 
+“可以这么说？ 怎么做到？”
+“Arguably” 在这里表示说话者对前一个人提出的 “通过利用这些囚犯可以规避新限制” 这一观点，觉得有一定讨论或争辩的空间，“How” 则进一步追问具体打算如何通过利用囚犯来规避限制。
+ -->
 Arguably? How?
 
+<!-- 国会说我们不能使用人类囚犯。 -->
 Congress said we can't use human prisoners.
 
+<!-- 这些混蛋可不是人类。
+此句使用了不太礼貌的词汇 “assholes”，表达说话者对所提及对象的负面态度，强调这些 “混蛋” 不属于人类范畴，结合前文，可能是指可利用这些非人类对象来规避 “不能使用人类囚犯” 的限制。
+“assholes” 是 “asshole” 的复数形式，音标：英 [ˈæshəʊlz]；美 [ˈæshoʊlz] 。
+“asshole” 本义指 “肛门” ，在口语中常作为粗俗用语，用来称呼那些令人讨厌、愚蠢或不道德的人，可译为 “混蛋”“蠢货”“讨厌鬼” 等。
+ -->
 These assholes aren't human.
 
 She's not human?
 
+<!-- 一具尸体算是人类吗？ -->
 [Waller] Is a corpse human?
 
 [sighs]
 - Who is she?
 - We don't know. We call her The Bride. Who's Jason and the Argonauts?
 
+<!-- 一个自称磷博士的反社会者。
+“sociopath”英 [ˈsəʊsiəʊpæθ]；美 [ˈsoʊsioʊpæθ]。 指反社会者，这类人往往缺乏正常的社会情感和道德观念，行为常常违反社会规范。 “calls himself” 意思是 “自称” ，表明 “磷博士” 并非其真实称谓。
+
+ -->
 [Waller] A sociopath who calls himself Dr. Phosphorus.
 
+<!-- 他的皮肤能放射射线，可借此灼穿人和物体。
+“irradiated” 的音标：英 [ɪˈreɪdieɪtɪd]；美 [ɪˈreɪdieɪtɪd]。它是动词 “irradiate” 的过去式和过去分词形式，常见意思为 “被辐射的；受到照射的” ，在不同语境中还可能有 “照耀；使生辉” 等含义。
+ -->
 He has irradiated skin he can use to burn through people and objects.
 
+<!-- 嗯，那种辐射对他周围的人有什么影响呢？
+radiation 的音标：英 [ˌreɪdiˈeɪʃn]；美 [ˌreɪdiˈeɪʃn] 。
+ -->
 Well, how does that radiation affect the people around him?
 
+<!-- 要是你不和他睡在同一个房间，影响应该会微乎其微。 -->
 If you don't sleep in the same room with him, the effects should be minimal.
 
 - Minimal?
+<!-- 就把这当作免费的输精管切除术吧。
+vasectomy 的音标：英 [vəˈsektəmi]；美 [vəˈsektəmi] 。
+vasectomy 是医学术语，意为 “输精管切除术”，常作为男性绝育的一种手术方式 。
+ -->
 - Consider it a free vasectomy.
 
 [choking]
 
 [Flag] What is that thing?
 
+<!-- “the weasel” 常见释义为 “那只黄鼠狼” 。在特定语境中，如果大写首字母且作为特定称呼，可能指代某个人，比如可能是个绰号，类似 “黄鼠狼（代号）” 。
+“Weasel” 的音标：英 [ˈwiːzl]；美 [ˈwiːzl] 。
+ -->
 [Waller] The Weasel.
 
+<!-- 他是科托马耳他 “海星计划” 中少数幸存的士兵之一 
+ “it's”非人化或贬低的意味或者强调身份属性而非个体本身
+ -->
 It's one of the few soldiers still alive from Project Starfish in Corto Maltese. 
 
+<!-- 所以我们知道它具备生存所需的条件。 
+has what it takes：这是一个常用的习语表达，意思是 “具备所需的能力、品质或条件”。其中 “what it takes” 是一个宾语从句，作 “has” 的宾语，“it” 在这里没有实际意义，“takes” 表示 “需要” 。
+to survive：是动词不定式短语，作目的状语，表明具备这些能力、品质或条件是为了 “生存” 。
+-->
 So we know it has what it takes to survive.
 
 Sorry.
 
+<!-- 我不是想暗示你儿子什么，弗拉格。
+intimate 作动词时，音标：英 [ˈɪntɪmeɪt]，美 [ˈɪntɪmeɪt] ，意为 “暗示；透露” 。
+ -->
 I didn't mean to intimate anything about your son, Flag.
 
+<!-- 他在科托马耳他牺牲时，死得其所，堪称英雄。
+“he died a hero” 是一种简洁而有力的表达，意思是 “他死时是个英雄” ，即他的死亡方式或他生前的行为使他配得上英雄的称号 。
+ -->
 When he died in Corto Maltese, he died a hero.
 
+<!-- 那一个看起来像一台已停产的洗碗机。
+discontinued” 的音标：英 [ˌdɪskənˈtɪnjuːd]；美 [ˌdɪskənˈtɪnjuːd] 。
+它是动词 “discontinue” 的过去式和过去分词形式，作形容词时，意思为 “停止生产的；不再使用的；中断的”。
+ -->
 That one looks like a discontinued dishwasher.
 
+<!-- 那台 “洗碗机” 在二战期间干掉了 300 多名纳粹分子。
+“Nazis” 的音标：英 [ˈnɑːtsɪz]；美 [ˈnɑːtsɪz] 。
+它是 “Nazi” 的复数形式，意为 “纳粹分子”
+ -->
 [Waller] That dishwasher killed over 300 Nazis in World War II.
 
+<!-- 我本想把它拆解了，但又觉得或许哪天会派上用场。
+“I would have” 是虚拟语气中常见的结构，常用来表达与过去事实相反的假设或愿望 
+“dismantled” 的音标：英 [dɪsˈmæntld]；美 [dɪsˈmæntld] 。它是 “dismantle” 的过去式和过去分词形式，常见词性为动词，含义如下：
+拆卸；拆开：指将物体分解成各个部分 
+“I thought it might” 是一个常见的表达，从语法结构上看，“I thought” 是主句，使用一般过去时，表示过去的想法 ，“it might...” 是宾语从句，“might” 是 “may” 的过去式，在这里表达一种不太肯定的推测或可能性 。
+“come in” 起作用；有用处：常以 “come in + 形容词（如 useful, handy 等）” 的形式出现。
+ -->
 I would have dismantled it, but I thought it might come in use someday.
 
 It's known as G.I. Robot.
 
 Last one is Nina Mazursky.
 
+<!-- 她戴着个像鱼缸似的东西四处走动有什么用呢？
+“What use is...” 是一种常见的英语句式，用于询问某事或某物的用途、益处，意思是 “…… 有什么用呢” 。它是 “What is the use of...” 的一种较为口语化、简洁的表达形式，二者可以互换使用。
+“in a fishbowl” 形象地描述了她身上类似鱼缸的穿戴或装备
+ -->
 What use is she walking around in a fishbowl?
 
-Get her in water it's a different story.
+<!--  “把她放到水里，那情况就不一样了”  -->
+Get her in water. it's a different story.
 
+<!-- 她是这群人里最聪明、最通情达理的。
+“reasonable” 是形容词，读音：英 [ˈriːznəbl]，美 [ˈriːznəbl] ，通情达理的
+ -->
 She's the smartest and most reasonable of the bunch.
 
+<!-- 她或许能帮你管住其他人。
+“keep sb. in line” 是习语，有 “使某人遵守规定、循规蹈矩、听话” 之意 ，在本句中表示让其余人听从安排、不捣乱。
+ -->
 She might be able to help you keep the rest of them in line.
 
 [alarm blaring]
@@ -221,45 +322,80 @@ She might be able to help you keep the rest of them in line.
 [all groaning]
 
 [all thud]
-
+<!-- 这是你新的特遣部队，弗拉格。
+“task force” 常见释义为 “特遣部队”“特别工作组” 
+ -->
 This is your new task force, Flag.
 
 Let's call it Task Force M. M for monster. Also known as
 
 [theme music playing]
 
-There's an Osprey waiting to take you directly to the castle to protect Princess Rostovic
-from Circe and her forces.
+<!-- 有一架 “鱼鹰” 运输机在等着直接送你们去城堡，保护罗斯托维奇公主，让她免受瑟茜及其势力的伤害。
+“Osprey” 的音标：英 [ˈɒspreɪ]，美 [ˈɑːspreɪ] 。特指美国研制的 V - 22 “鱼鹰” 倾转旋翼机.
+“castle” 常见词性为名词，音标：英 [ˈkɑːsl]，美 [ˈkæsl] ，城堡
+ -->
+There's an Osprey waiting to take you directly to the castle to protect Princess Rostovic from Circe and her forces.
 
 [door opens and closes]
 
+<!-- 我知道你们对这次任务并非充满热情。
+enthusiastic 的音标：英 [ɪnˌθjuːziˈæstɪk]；美 [ɪnˌθuːziˈæstɪk]。该词为形容词，意为 “热情的；热心的；热烈的” 
+ -->
 I know you all aren't exactly enthusiastic about this mission.
 - But
 - [groans]
 
+<!-- 将军，我认为您误解我们了。
+“read sb. wrong” 是一个习惯表达，意思是 “误解某人”“对某人判断错误” ，这里 “read” 并非其常见的 “阅读” 之意，而是引申为对人或事的理解、判断 。
+ -->
 General, I believe you've read us wrong.
 
+<!-- 我们很高兴能来到这里，也很高兴能为国家效力。
+“delighted” 的音标：英 [dɪˈlaɪtɪd]，美 [dɪˈlaɪtɪd] 。它是形容词，意为 “高兴的；愉快的；欣喜的” ，常用来描述人处于愉悦、开心的状态 。
+ -->
 We're delighted to be here and delighted to serve our country.
 
 Okay. Uh, great.
 
 - Are you smiling?
 - Yes.
+<!-- “sarcastically” 是副词，音标：英 [sɑːˈkæstɪkli]；美 [sɑːrˈkæstɪkli]。
+它的意思是 “讽刺地；挖苦地”，用于描述以一种尖刻、嘲笑、轻蔑的方式说话，目的是通过言辞表达对某人或某事的不满、不屑。 -->
 - Sarcastically?
 - Mmm-hmm.
 
 [chitters]
 
+<!-- G.I. 机器人察觉到了不安情绪。
+“detecting” 的音标：英 [dɪˈtektɪŋ]，美 [dɪˈtektɪŋ]，它是动词 “detect（察觉；发现；探测）” 的现在分词形式 。
+“unease” 的音标：英 [ʌnˈiːz]，美 [ʌnˈiːz] ，为名词，意思是 “不安；忧虑；担心” 。
+“detecting unease” 意思是 “察觉到不安情绪” 。
+ -->
 G.I. Robot is detecting unease.
 
+<!-- “G.I. 机器人不禁发问，他会不会是因为害怕被人发现自己是纳粹败类而担惊受怕呢？”
+这句话中，“Could he be...?” 引导一个疑问句，“in fear of...” 表示 “害怕……” ，“Nazi scum” 指 “纳粹败类” 。整个句子通过 G.I. 机器人的疑问，对 “he” 可能存在的心理状态进行了推测。
+“scum” 常见词性为名词，音标：英 [skʌm]；美 [skʌm] 社会渣滓；败类：用于比喻道德败坏、令人厌恶的人。这是一种贬义词，表达对这类人的极度轻蔑。
+ -->
 Could he be, G.I. Robot asks, in fear of being discovered as Nazi scum?
 
 No. Put your arm Your gun down.
 
+<!-- 他不是纳粹分子。不过，他是个杀害儿童的凶手。 -->
 He's not a Nazi. Child killer, though.
 
+<!-- 这形象可不太好。据说，他上次乘坐这架 “鱼鹰” 运输机时有过不愉快的经历，仅此而已。
+“Not a great look” 是一句较为口语化的表达，直译为 “看起来不怎么样” ，实际含义常用来表示某人的行为、表现、处境等给他人留下负面印象，或显得不合时宜、不妥当。
+“supposedly” 是副词，音标：英 [səˈpəʊzɪdli]；美 [səˈpoʊzɪdli] 。据说；据传：用于讲述一些未经证实或不确定真实性的事情。
+“the last trip” 在不同语境下，既可以表示 “上一次行程”，也能表示 “最后一次行程” 
+ -->
 Not a great look. Supposedly, he had a bad experience the last trip he took on this Osprey, that's all.
 
+<!-- 我们这是在该死的波科利斯坦吗？
+“goddamn” 是一种较为粗俗的表达，用来加强语气，带有愤怒、厌烦等情绪，可译为 “该死的” ；
+“goddamn” 的音标：英 [ˈɡɒdˈdæm]；美 [ˈɡɑːdˈdæm] 。它常作形容词或副词，作形容词时表示 “该死的；讨厌的”，作副词时表示 “非常；极其” ，用来加强愤怒、懊恼等负面情绪
+ -->
 Are we in goddamn Pokolistan?
 
 You've been here before?
