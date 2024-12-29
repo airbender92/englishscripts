@@ -1,4 +1,4 @@
-1
+
 It seems today that all you see ♪
 Is violence in movies and sex on TV ♪
 But where are those good
