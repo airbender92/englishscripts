@@ -400,6 +400,7 @@ Are we in goddamn Pokolistan?
 
 You've been here before?
 
+<!-- 在实际使用中它是一种强烈的感叹语，用来表达极度的震惊、愤怒、懊恼或厌烦等情绪。 -->
 [groans] Fucking hell.
 
 ["My Gypsy Auto Pilot" playing]
@@ -430,16 +431,17 @@ I've been skipping school Since then, yeah ♪
 
 Calm down. We'll be there soon.
 
+<!-- “piss” 常见意思为 “撒尿”，所以整句可直译为 “他在撒尿吗？” -->
 Oh, my God, is he pissing?
 
 He's pissing!
 
 You son of a bitch!
 
-Gah! It's on my leg!
-
+<!--看他脸上那满足的神情。长途旅行之后，难道就没人想到带他出去遛遛吗？ -->
 Look at the satisfied look on his face. No one thought to take him out for a walk after a long trip?
 
+<!-- 你这会儿最好别盯着我看。 -->
 You better not be looking at me right now.
 
 And the key To my gypsy auto pilot ♪
@@ -464,16 +466,22 @@ And your story to tell ♪
 
 Story to tell ♪
 
+<!-- “gene pool” 的音标：英 [ˈdʒiːn puːl]；美 [ˈdʒiːn puːl] 。
+“gene pool” 常见的意思为基因库，指一个群体中所有个体的全部基因的总和 ，常用于生物学、遗传学领域。
+“inflatable” 作形容词时，音标：英 [ɪnˈfleɪtəbl]；美 [ɪnˈfleɪtəbl]。其含义为 “可充气的；可膨胀的” ，常用来描述那些能够通过充气来改变形状或增加体积的物品。
+ -->
 Looks like the gene pool was above ground and inflatable, if you know what I mean.
 
 [chuckles] Yeah.
 
+<!-- “我好奇这位公主会是什么模样。哦。” -->
 I wonder what this princess is going to look like Oh.
 
 [scoffs]
 
 [Ilana] Richard Bill Flag, Sr.
 
+<!-- “很高兴见到你。 -->
 So wonderful to be meeting you.
 
 Yes, you too.
@@ -486,9 +494,10 @@ Yes, you too.
 - Mine! Okay?
 
 Princess Rostovic,
-
+<!-- “it's an honor.” 常见的意思为 “这是一种荣幸” 。它是一种非常礼貌且正式的表达方式，用于传达对某人或某事的高度尊重和感激，表明自己因参与某事或遇见某人而深感荣幸。 -->
 it's an honor.
 
+<!-- 理查德・弗拉格先生，在波科利斯坦，我们可不是行这种鞠躬礼。 -->
 This is not the kind of bow we do in Pokolistan, Mr. Richard Flag.
 
 So, unfortunately,
@@ -497,7 +506,7 @@ So, unfortunately,
 - What?
 - Alexi.
 - I am sorry.
-
+<!-- 在这座城堡里，我们必须行神圣的、合乎习俗的鞠躬礼。 -->
 We must only do sacred, customary bow in this castle.
 
 Everyone, murder this man.
