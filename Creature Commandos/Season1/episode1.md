@@ -506,13 +506,24 @@ So, unfortunately,
 - What?
 - Alexi.
 - I am sorry.
-<!-- 在这座城堡里，我们必须行神圣的、合乎习俗的鞠躬礼。 -->
+<!-- 在这座城堡里，我们必须行神圣的、合乎习俗的鞠躬礼。
+sacred 的音标：英 [ˈseɪkrɪd]；美 [ˈseɪkrɪd] 。其含义为 “神圣的；宗教的；受崇敬的，值得崇敬的” 
+“customary” 常见词性为形容词，音标：英 [ˈkʌstəməri]；美 [ˈkʌstəmeri]。 指 “习惯上的；通常的；照惯例的”
+“castle” 常见词性为名词，音标：英 [ˈkɑːsl]，美 [ˈkæsl]
+ -->
 We must only do sacred, customary bow in this castle.
 
+<!-- “所有人，杀了这个人。” -->
 Everyone, murder this man.
 
+<!-- “什么？等一下。”
+“hold on a minute” 是常用口语表达，实际表示让对方暂停一下，等一等，给自己一点时间思考或做出反应。
+ -->
 What? Hold on a minute.
 
+<!-- “没人向我简要说明过这是哪种弓。”
+“brief” 英 [briːft]，美 [briːft]常见词性为动词，在此处意为 “向…… 简要介绍；向…… 作简要汇报” ；“brief sb. on sth.” 是常用搭配，即 “就某事向某人作简要说明” 。
+ -->
 No one briefed me on what kind of bow
 
 [laughs]
@@ -521,47 +532,92 @@ No one briefed me on what kind of bow
 
 Alexi. [chuckles]
 
+<!--  “They're messing with you.”，意思是 “他们在捉弄你” 。
+“mess with sb.” 是一个常用的短语动词，有 “戏弄、招惹、打扰某人” 等含义 。
+
+ -->
 They're How do you say it? Messing on you?
 
 I am making joke! [laughs]
 
+<!-- “有那么一会儿，我还以为你要吓得尿裤子了呢，哈？”
+ “make mess in your pants” 是一种比较形象、口语化的表达，实际想表达的是因恐惧等强烈情绪而失禁，通常用来调侃某人受到惊吓的状态 。
+ -->
 For a minute, I think you're going to make mess in your pants, huh?
 
 [laughs]
 
+<!-- “我从来都不会差点搞砸他的计划 。”
+“was gonna” 是 “was going to” 的口语缩略形式，表示过去打算、将要做某事；“mess up” 是固定短语，意为 “搞砸、弄糟” 。
+ -->
 I was never gonna Very close to messing his plans.
 
+<!-- “我压根儿连那样做的边儿都没沾上（或我根本就没靠近过那样做的可能性）。”
+vicinity 的音标：英 [vɪˈsɪnəti]；美 [vɪˈsɪnəti]。 本意为 “附近；临近地区” ，“in the vicinity of” 常表示空间上的 “在…… 附近” ，在此处引申为程度或可能性上的 “接近于……” 。整个句子通过强调距离这种行为的 “远”，来表明自己根本没有做过类似的事 -->
 I wasn't even in the vicinity of doing that.
 
+<!-- “我们和美国人很相像，不是吗？” -->
 We are so much like Americans, yes?
 
+<!-- “哦，我们会像《杰米・肯尼迪实验》节目那样搞恶作剧。
+“pull pranks” 是固定搭配，意为 “搞恶作剧” 
+pranks 的音标：英 [præŋks]；美 [præŋks] 。它是 prank 的复数形式，prank 作名词时，意思是 “恶作剧；玩笑”
+ -->
 Ooh, we pull pranks like Jamie Kennedy Experiment.
 
+<!-- “我们来玩超级碗铲球（动作）！” -->
 We do the Super Bowl shovel!
 
+<!-- “我们喜欢说‘怎么了？’”
+“Wazzup?” 是 “What's up?” 的一种非常口语化、随意的变体，在日常交流中常用于打招呼，询问对方近况，相当于 “最近怎么样？”“有什么事儿吗？” 等 -->
 We like to say "Wazzup?"
 
+<!-- “嗯，你对流行文化的引用还真是紧跟潮流呢。”
+“current” 在这里表示 “紧跟潮流的；最新的” ，“be current with” 表示在某方面紧跟形势 。“popular cultural references” 指对流行文化元素的提及、引用，比如影视、音乐、网络热梗等方面内容。这句话通常带有一定调侃或赞赏的语气。
+ -->
 Well, you're certainly current with your popular cultural references.
 
 - Thank you.
 - You're welcome.
 
+<!--  “讽刺的微笑” ，指那种并非出于友善、真诚，而是带有嘲讽、讥笑意味的笑容。比如在某人说了荒谬言论后，其他人可能会露出这样的笑容。
+英 [sɑːˈkæstɪk]；美 [sɑːrˈkæstɪk]
+ -->
 Sarcastic smile.
 
+<!-- 现在，我有个问题要问你，骷髅（斯盖 leton ）。 -->
 Now, I have question for you, Skeleton.
 
+<!-- “Where's the beef?” 字面意思是 “牛肉在哪儿？” ，但它在美语中已成为一句习语，常用来表达对某事物空洞、缺乏实质内容的质疑或不满。
+该短语源于 1984 年美国温蒂汉堡（Wendy's）的一则广告。广告中，一位老太太看着竞争对手汉堡里少得可怜的牛肉馅，大声质问：“Where's the beef?” 这句广告语因其幽默和感染力迅速流行，进入日常语言。例如，当一个方案看似不错，但深入研究发现缺乏关键细节时，你就可以说：“This plan sounds good, but where's the beef?”（这个计划听起来不错，但关键内容在哪儿呢？） -->
 Where's the beef?
 
 [laughs]
 
-Clara Peller, one of the greats Enough, Alexi.
+<!-- “克拉拉・佩勒，了不起的人物之一。”
+“Clara Peller” 即克拉拉・佩勒，就是那位因温蒂汉堡 “Where's the beef?” 广告而走红的演员 。 “one of the greats” 表示 “了不起的人物之一” 。
+ -->
+Clara Peller, one of the greats.
 
+<!-- 够了，阿列克谢。 
+后面 “Enough, Alexi” 是说话者对名为阿列克谢（Alexi ）的人说 “够了”，可能是不想再继续关于克拉拉・佩勒的话题，或阿列克谢的某些言行让说话者觉得过头了。-->
+ Enough, Alexi.
+
+<!-- 我们为尊贵的客人们准备了一场盛宴。
+banquet 的音标：英 [ˈbæŋkwɪt]，美 [ˈbæŋkwɪt] 。作名词时，意为 “宴会；盛宴”
+ -->
 We've prepared a banquet for you, our honored guests.
 
 [Weasel chitters softly]
 
 [Weasel chomping]
 
+<!-- 他们已经吃了好一阵子监狱里的食物了。
+“grub” 在这句话中是俚语，意思是 “食物” ，“prison grub” 即指监狱提供的饮食。 “for quite some time” 表示 “相当长一段时间” ，描述这种吃监狱食物的状态持续已久。
+grub 的音标：英 [ɡrʌb]；美 [ɡrʌb] 食物（尤指简单、家常的食物）,这里 “grub” 强调的是能填饱肚子的食物，不强调食物是否精致。
+“been living on” 是 “live on” 的现在完成进行时态形式, 以…… 为生；靠…… 生活：强调某人的生活来源。or  以…… 为食：说明生物维持生命所依赖的食物。
+“quite some” 是一个固定搭配，意思是 “相当多的；颇”，用来加强语气，“quite some time” 即 “相当长一段时间” 
+ -->
 They've been living on prison grub for quite some time.
 
 Forgive their manners, Your Highness. Just Ilana's fine.
