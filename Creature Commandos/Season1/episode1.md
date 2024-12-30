@@ -832,51 +832,80 @@ gung ho 的音标：英 [ˌɡʌŋ ˈhəʊ]，美 [ˌɡʌŋ ˈhoʊ] 。它是一�
 -->
 No. No. I was once, but my wife ended up being my least favorite aspect of that 21st century you're all gung ho about.
 
+<!-- 那我会避开 21 世纪的那一方面。 -->
 I will avoid that part of the 21st century then.
 
 [chuckles]
 
+<!-- 嗯，有时候，失误反而会将你引向该去的地方。
+missteps 的音标：英 [ˈmɪssteps]；美 [ˈmɪssteps] 。它是 misstep 的复数形式，misstep 作名词时，常见意思为 “失误；错误；失足” 。
+ -->
 Well, sometimes, missteps lead you where you need to be.
 
+<!-- 我和她 18 岁的时候就有了一个儿子。 -->
 She and I had a son when we were just 18.
 
+<!-- 真是个出色的年轻人。 -->
 Fine young man.
 
+<!-- 我参军主要就是为了赚钱，这样就能养活他。 -->
 I joined the military mostly just to make money so I could support him.
 
+<!-- 18 年后，他也参了军，因为他热爱我们的国家，想让它变得更美好。 -->
 Eighteen years later, he joined the military because he loved our country and he wanted to make it a better place.
 
-Yeah. Boy was an improvement on me in every way. Was?
+<!-- 是的。这孩子在各个方面都比我强。
 
+“an improvement on me” 直译为 “对我而言的一种改进” ，意即 “比我更好”“在我基础上的提升” 。这里说话者通过此表达，强调儿子在各方面都比自己优秀，青出于蓝而胜于蓝 。
+ -->
+Yeah. Boy was an improvement on me in every way. 
+
+<!-- 等等，用的是 “was”（过去式）？
+这里 “was” 本是用于描述过去存在的状态或行为，但在这个语境中，说话者一般会默认孩子现在也优秀，所以用 “is”。因此当听到对方用 “was”，说话者感到诧异，怀疑孩子是不是出了什么事 
+ -->
+Was?
+
+<!-- 他大约在两年前去世了。
+“pass on” 在这里是 “去世” 的委婉表达，“about two years back” 表示 “大约两年前” 
+ -->
 He passed on about two years back.
 
 Oh. I'm sorry.
 
-I would have liked to introduce the two of you. [chuckles]
+<!-- 我本想把你们俩介绍认识的。
+这句话使用了 “would have liked to do sth.” 的结构，它表达一种过去未曾实现的愿望，即说话者过去希望能做某事，但实际上这件事并没有发生  -->
+I would have liked to introduce the two of you. 
 
-I have a feeling you would have gotten on like a house on fire.
+<!-- 我有种感觉，你们俩肯定会一见如故，相处得极为融洽。
+“get on like a house on fire” 是一个英语习语，字面意思是 “像着火的房子一样”，实际用来形容两人初次见面就相处得非常好，迅速建立起亲密友好的关系，关系进展得十分热烈、迅速 。 -->
+[chuckles] I have a feeling you would have gotten on like a house on fire.
 
 [chuckles] A house on fire does not seem good.
 
+<!-- 不，它（这个表达）应该是件好事。 -->
 No, it's It's supposed to be a good thing.
 
-I'm sure your son was a fine man,
-
-but I'm much more fond of older men.
+<!-- 我相信你儿子是个优秀的人，但我更喜欢年纪大些的男人。 
+“fond of” 是一个常用短语，意为 “喜欢”“喜爱”，常用来表达对某人或某物的喜爱之情 ，侧重于一种长久的、温和的喜爱。常见用法如下：
+be fond of + 名词：表示喜欢某人或某物。
+-->
+I'm sure your son was a fine man, but I'm much more fond of older men.
 
 I'd like to show you something.
 
+<!-- 这个衣橱很漂亮，不是吗？
+armoire 的音标：英 [ɑːˈmwɑː(r)]；美 [ɑːrˈmwɑːr] 。该词意为 “大型衣橱”“衣柜”“衣橱式大橱柜” ，通常指有门、可挂放衣物的大型家具。
+ -->
 This armoire is beautiful, no?
 
 Um, sure.
 
 It is over 500 years old.
 
+<!-- 伊拉娜，你想给我看什么呢？ -->
 What is it you wanted to show me, Ilana?
 
-[chuckles]
-
-Just this wonderful armoire.
+[chuckles] Just this wonderful armoire.
 
 That's not an armoire.
 
@@ -884,36 +913,54 @@ That's not an armoire.
 
 - Yes?
 
+<!-- 我只是…… 我觉得这并不完全合乎道德规范
+ethical 的音标：英 [ˈeθɪkl]，美 [ˈeθɪkl]。该词为形容词，常见义项为 “道德的；伦理的；合乎道德的” 。
+ -->
 I just I don't think this is exactly ethical.
 
 I'm here to protect you.
 
 [Ilana] To protect me from loneliness?
 
+<!-- 不，我……（是因为）缺乏激情吗？ -->
 No, I From lack of passion?
 
 No, I From Pokolistani men
 
+<!-- 那些从未见识过世界，根本不知道如何对待女人，而且在王室的光环之下无法将我视为一个真实的人的人呢？
+“have never seen” 是现在完成时的否定形式，由 “have + 过去分词” 构成，其中 “never” 表示 “从未”，用来强调从过去到现在的这段时间内，某个动作或经历从未发生过。
+“have no clue” 是一个常用的英语口语表达，意思是 “一无所知”“毫无头绪” ，常用来表明某人对某事不了解，不知道如何去做或理解。
+“the veil of” 字面意思是 “…… 的面纱”，常作比喻义，指掩盖真实情况、性质或本质的东西，类似 “遮蔽物”“掩盖物” 
+英 [veɪl]；美 [veɪl] 
+ -->
 who have never seen the world, have no clue how to treat a woman, and who can't see me as a human being I am behind the veil of royalty?
 
+<!-- 接近了，但还是不对 -->
 Closer, but still no.
 
+<!-- 听着，我觉得我们得睡会儿觉，这样明天早上才能制定出一个切实可行的计划。
+“get some shut - eye” 意思是 “睡一会儿”“休息一下” ，是比较口语化的表达；“cogent” 表示 “有说服力的；清晰而有条理的；切实可行的” 。
+英 [ˈkəʊdʒənt]，美 [ˈkoʊdʒənt] 
+ -->
 Look, I think we need to get some shut-eye so we can put a cogent plan in place in the morning.
 
 [sighs]
 
+<!-- 我会让 “大兵机器人” 守着门。理查德。
+“leave” 表示 “使…… 处于（某种任务或状态）
+ -->
 I'll leave G.I. Robot to guard the door. Richard.
 
 - [G.I. Robot] In June 1944
 - [snoring]
 
-38 dead Nazis.
+38 dead Nazis. In September of 1944, I fought at the Battle of Huertgen Forest.
 
-In September of 1944, I fought at the Battle of Huertgen Forest.
-
-A whopping 92 dead Nazis. In October of 1944, at the Battle of Aachen,
-
-I ended the lives of 14 Nazis
+<!-- 多达 92 名纳粹分子丧命。1944 年 10 月，在亚琛战役中，我亲手终结了 14 名纳粹分子的性命。
+“whopping” 常见词性为形容词，读音：英 [ˈwɒpɪŋ]，美 [ˈwɑːpɪŋ] 。它主要用来强调某物在数量、程度或规模上 “巨大的；庞大的；惊人的”，常带有一种惊叹或夸张的语气 。
+“ended the lives of” 意思是 “结束…… 的生命”， 常用来表达致使某人死亡，是较为正式的表述，带有一种强调终结他人生命这一严肃行为的意味 。
+ -->
+A whopping 92 dead Nazis. In October of 1944, at the Battle of Aachen, I ended the lives of 14 Nazis
 
 [window creaks]
 
@@ -934,12 +981,20 @@ Hey, you can't leave.
 
 [Bride] Why not?
 
+<!-- 嗯，弗拉格（Flag）会用遥控器电你，然后我们都会被电到。 -->
 Well, Flag will use the remote to shock you, and then we all get shocked.
 
+<!-- 在我看来，就算我没做错任何事也会被电击，这似乎是这个系统的一个缺陷。
+flaw 的音标：英 [flɔː]；美 [flɔː] 。作名词时，意思为 “缺陷；瑕疵；裂痕” ；作动词时，意为 “使有缺陷；使破裂；削弱”。
+ -->
 Seems like a flaw in the system to me to get shocked even when I didn't do anything wrong.
 
 That was the worst feeling ever.
 
+<!-- 有点骨气，菲什。
+“grow a pair” 是一种比较粗俗、口语化的表达，字面意思是 “长出一对（睾丸）” ，实际用来激励或指责某人要有勇气、有胆量，不要懦弱。
+pair 的音标：英 [peə(r)]，美 [per]。
+ -->
 Grow a pair, Fish.
 
 A pair of what?
@@ -949,10 +1004,15 @@ Wait, where are you going?
 - [Bride] Open the door.
 - [Nina] Oh, my God.
 
+<!-- 我的日程安排里没有你（这一项）。 -->
 [guard] I do not have you in the schedule.
 
 He doesn't have us in the schedule.
 
+<!-- 我可不需要按日程表来，先生，你这讨厌鬼。
+“Douche A Lot” 字面意思是 “冲洗很多”，这里是一种不礼貌、粗俗的称呼，类似于 “讨厌鬼”“蠢货” ，用来表达对对方的不满或轻蔑。
+douche 的音标：英 [duːʃ]；美 [duːʃ] 。（非正式，侮辱性）讨厌鬼，混蛋：用来形容令人讨厌、不愉快的人
+ -->
 I don't need a schedule, Sir, Douche A Lot.
 
 I'm not your prisoner, so open the freaking door.
@@ -961,6 +1021,7 @@ I'm not your prisoner, so open the freaking door.
 
 [Nina] Bride, please, come on, stay.
 
+<!-- “oh, darn it!” 是一句口语化表达，可译为 “哦，讨厌！”“哦，真糟糕！” 。“darn” 在这里表示轻微的懊恼、沮丧或不满，语气比 “damn” 要温和，常用于避免使用过于强烈的咒骂语时表达类似情绪。 -->
 Oh, darn it!
 
 - Do you have any money?
@@ -968,14 +1029,23 @@ Oh, darn it!
 - Pardon?
 - [Bride] Money.
 
+<!-- 掏出点钱来。我身上他妈一分卢布都没有。
+“cough up” 常见意思为 “咳出”，这里用的是其引申义 “勉强说出；被迫拿出（钱等）” 。“freaking” 是用来加强语气的词，类似 “fucking”，但相对委婉一些，都带有懊恼、不耐烦等情绪 。 -->
 Cough up some cash. I don't have any freaking rubles on me.
 
+<!-- 我该怎么出行呢？ -->
 How am I supposed to get around?
 
+<!-- 我们的钱不叫卢布 -->
 Our money is not called ruble.
 
 Yeah, I know.
 
+<!-- 这原本是想用来侮辱人的。
+“was meant to” 表示 “原本打算；旨在”，这里表明所说的话或所做的行为初衷是为了侮辱他人。
+insulting 的音标：英 [ɪnˈsʌltɪŋ]；美 [ɪnˈsʌltɪŋ]。
+它是 insult 的形容词形式，意为 “侮辱性的；无礼的” ，用于描述言语、行为等带有冒犯、羞辱他人的性质。
+ -->
 It was meant to be insulting.
 
 Just give me some cash.
@@ -1003,6 +1073,7 @@ Frankenstein.
 
 [speaking other language]
 
+<!-- 别管她头上戴的是什么。照我告诉你的地址去就行了。 -->
 [in English] Never mind what's on her head. Just go to the address I told you
 
 [man coughing]
@@ -1052,15 +1123,20 @@ Huh.
 - No, please, no!
 - Richard?
 
+<!-- 磷，你这个白痴！ -->
 Phosphorus, you idiot!
 
 You think Waller would give me the only remote?
 
+<!-- 要是你敢逃跑，你会像颗墨西哥跳豆一样，连着好几天上蹿下跳（指被电击后痛苦挣扎）
+“hopping around” 是动词短语 “hop around” 的现在分词形式，其核心动词 “hop” 常见含义为 “单脚跳行；（小动物）齐足跳跃” 。因此，“hopping around” 字面意思是 “四处单脚跳；（像小动物般）四处蹦跳” 
+ -->
 You'd be hopping around like a Mexican jumping bean for days, if you escaped.
 
-Or, If I told her about this I'm not here to torture you.
-
-We're supposed to be on the same damn team.
+<!-- 或者，如果我跟她讲了这件事，（说）我来这儿不是为了折磨你。我们他妈的本该是同一阵营的。
+torture 的音标：英 [ˈtɔːtʃə(r)]，美 [ˈtɔːrtʃər] 。意为 “折磨；拷问；痛苦” 。
+ -->
+Or, If I told her about this I'm not here to torture you. We're supposed to be on the same damn team.
 
 [Nina] Thank you.
 
