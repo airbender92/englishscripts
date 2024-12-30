@@ -58,53 +58,229 @@ You name it.
 这是一段简单的对话场景，一方主动询问在场的人是否想吃煎饼，彼得礼貌地拒绝了。“you folks” 是一种较为口语化、亲切的称呼，指代在场的一群人 。 -->
 You folks want some pancakes? PETER: No, thanks.
 
+<!-- 看，这就是我们最糟糕的情况——‘杰迈玛的见证人’。 
+ “witnesses”，它的音标：英 [ˈwɪtnɪsɪz]；美 [ˈwɪtnɪsɪz] 。它是 “witness” 的第三人称单数和复数形式，作名词时表示 “目击者；证人” 
+-->
 See, that's the worst we got is Jemima's Witnesses.
 LOIS: [Singing.]
+<!-- “如今似乎所见的一切，
+都是电影里的暴力和电视上的性内容。
+但那些我们曾依赖的，
+良好的传统价值观在哪里？
+幸运的是，有个‘家庭伙伴’。
+幸运的是，有个能积极告诉你，
+所有让我们大笑或落泪的事情的人。
+他是一个‘家庭伙伴’。”
+Old-fashioned values 的意思是 传统价值观 或 老派的价值观，指的是过去社会中被广泛接受和推崇的行为准则和道德观念。它通常与家庭、诚实、尊重、责任感、勤奋等品质相关联。
+ -->
 "It seems today that all you see "is violence in movies and sex on TV "But where are those good, old-fashioned values "on which we used to rely? "Lucky there's a family guy "Lucky there's a man who'll positively tell you "all the things that make us "laugh 'n' cry "He's a family guy" [Cheery instrumental music.]
+
+<!-- “妈妈，我的嘴唇太薄了。” -->
 MEG: Mom, my lips are too thin.
-Can I please get collagen injections? Meg, you don't need to change the way you look.
+<!-- 我能不能去做胶原蛋白注射？ 
+“Can I please” 的意思是 “我可以请...” 或 “我能否请...”，通常用于请求或询问时加上一种礼貌的语气。它表达了请求的语气，并希望对方能够理解或接受这个请求。
+“Collagen injections”的音标为：/ˈkɒlədʒɪn ɪnˈdʒɛkʃənz/。胶原蛋白注射
+-->
+Can I please get collagen injections? 
+<!-- 梅格，你不需要改变自己的外貌。 -->
+Meg, you don't need to change the way you look.
+
+<!-- 你知道，世界上大多数问题都源于自我形象差。 
+Stem 的音标是：/stɛm/。表示“源自”或“起源于”
+Self-image 是指一个人对自己外貌、性格、能力和价值的看法。
+Poor self-image 描述的是当一个人对自己的看法非常消极，常常感到自己不够好、不够美或不值得尊重。
+-->
 You know, most of the world's problems stem from poor self-image.
+
 [Polka music playing in gym.]
 [Man and women laughing.]
 [Growling.]
-Excellent! The mind-control device is nearing completion! LOIS: Stewie, I said no toys at the table.
+
+<!-- 太棒了！心灵控制装置即将完成！ -->
+Excellent! The mind-control device is nearing completion! 
+
+<!-- 斯图伊，我说了，桌子上不许玩玩具。 -->
+LOIS: Stewie, I said no toys at the table.
+
+<!-- 该死的邪恶女人！从我逃离你那可憎的子宫的那一天起，你就一直妨碍我的工作。
+“Damn you” 是一种情绪化的表达，通常表示对某人的愤怒、不满或诅咒，意思接近 “该死的你” 或 “你去死吧”。
+Vile woman 的音标是：/vaɪl ˈwɪmən/。
+Vile 是一个形容词，意思是 恶劣的、令人厌恶的、可憎的。
+Impeded 的音标是：/ɪmˈpiːdɪd/。
+Impeded 是动词 impede 的过去式，意思是 妨碍、阻碍、阻止。它指的是某物或某人妨碍或阻止某种行动、进程或发展。
+Wretched womb 的音标是：/ˈrɛtʃɪd wuːm/。
+Wretched 是形容词，意思是 可憎的、糟糕的、悲惨的，用来描述某事或某人非常糟糕或令人厌恶的状态。
+Womb 是名词，意思是 子宫，指的是女性的生育器官，用来怀孕和生育。
+ -->
 Damn you, vile woman! You've impeded my work since the day I escaped from your wretched womb.
+
+<!-- "Don't pout, honey." 可以翻译为：
+“别生气，亲爱的。” 或 “别板脸，亲爱的。” Pout 的音标是：/paʊt/。
+Pout 是一个动词，意思是 板脸、撅嘴，通常是因为不高兴或生气时的表现。 -->
 Don't pout, honey.
+
+<!-- “你出生时，医生说你是他见过的最开心的宝宝。” Looking 是动词 look 的现在分词，在这里用作形容词，表示 看起来的。 -->
 When you were born the doctor said you were the happiest looking baby he'd ever seen.
 But, of course.
+
+<!-- “那是我的胜利日。” -->
 That was my victory day.
-The fruition of my deeply-laid plans to escape from that cursed ovarian bastille! Return the device, woman! No toys, Stewie.
+
+<!-- 我精心策划的逃脱计划终于得以实现，从那个该死的卵巢监狱逃出来了！把装置还给我，女人！
+Fruition 的音标是：/fruːˈɪʃən/。
+Fruition 是一个名词，表示 实现、完成、结果，通常用于描述某个计划、愿望或目标的成功实现或达成。
+Deeply-laid 的意思是 深思熟虑的、精心策划的。
+Cursed ovarian bastille 的音标是：/ˈkɜːsɪd əʊˈveərɪən bæˈstɪl/。
+Cursed（/ˈkɜːsɪd/）：形容词，表示 被诅咒的、该死的，通常用来形容某物或某人非常糟糕或不幸。
+Ovarian（/əʊˈveərɪən/）：形容词，指 卵巢的，与女性的生育器官卵巢相关。
+Bastille（/bæˈstɪl/）：名词，指 巴士底狱，是法国历史上著名的监狱，象征着压迫和囚禁。在这里，斯图伊将卵巢比作一个监狱，带有夸张的幽默感。
+ -->
+The fruition of my deeply-laid plans to escape from that cursed ovarian bastille! Return the device, woman!
+
+No toys, Stewie.
+
+<!-- “那么，很好。” 或 “既然如此。” -->
 Very well, then.
+
+<!-- “记住我的话，当你最不期待的时候，你的报应就会到来！”
+Mark my words 是一种表达警告或强调的说法，意思是 记住我说的话，通常用来提醒别人某种即将发生的事情
+Least 是 little 或 few 的最高级，表示 最少的、最不
+Least expect it 通常用来表示某个事件发生在完全没有预料的情况下，通常具有戏剧性或出乎意料的意味。
+Uppance 的音标是：/ˈʌpəns/。
+Uppance 是 comeuppance 的非正式或变体形式，意思是 报应 或 应得的惩罚，指某人因为他们的行为或错误而遭遇到的后果，通常是负面的。
+ -->
 Mark my words, when you least expect it, your uppance will come! [Suspenseful instrumental music.]
-Mom, can I turn the heat up? Don't touch the thermostat, Meg.
+
+<!-- 妈妈，我可以把暖气开高一点吗？
+Turn the heat up 这个表达意思是 调高暖气的温度，通常用于表示想让环境变得更温暖
+ -->
+Mom, can I turn the heat up? 
+
+<!-- Thermostat 的音标是：/ˈθɜːrməstæt/。
+Thermostat 是一个名词，指 温控器，一种用来调节和控制房间或建筑物温度的设备。它通常用于自动调节温度，确保房间在设定的范围内保持恒定温度。 -->
+Don't touch the thermostat, Meg.
+
+<!-- “你爸爸会生气。” -->
 Your father gets upset.
+
 Come on.
+<!-- “这个东西可以调到90。”
+goes up to 表示 可以调节或达到某个数值或程度。 -->
 This thing goes up to 90.
+
+<!-- “谁动了温控器？”
+“天啊，他怎么总是知道？”
+“脑植入，梅格。”
+Implant 的音标是：/ˈɪmplænt/。
+Implant 是一个名词或动词，表示 植入物 或 植入，通常指通过手术或其他手段将物体植入人体内。它也可以用来描述任何被放入、固定或嵌入某个地方的物体
+ -->
 Who touched the thermostat? God, how does he always know? Brain implant, Meg.
+
+<!-- “每个爸爸都有一个。” -->
 Every father's got one.
+
+<!-- 当孩子们摆弄（恒温器的）旋钮时，（它）会提醒你。
+“mess with” 是一个短语，有 “摆弄；瞎弄；捣乱” 等意思 ，
+“dial” 表示 “旋钮；刻度盘”
+ -->
 Tells you when the kids mess with the dial.
+
+<!-- 男人：我的（报警器）响了！你家的恒温器没事吧？ - 嗯，没问题。
+“went off” 常见意思为 “（警报器等）突然响起” 。
+ -->
 GUY: My thing went off! Your thermostat okay? - Yeah, it's all right.
+
+<!-- 我家孩子在这儿吗？算了！虚惊一场！
+布莱恩：嗨，混蛋。
+“Ass ahoy” 是一种比较粗俗、戏谑的打招呼方式，“ass”（混蛋）是不礼貌称呼，“ahoy” 原是航海时打招呼用语，这里组合起来表达一种不太友好但又有点调侃的语气 。
+ -->
 - Is my kid over here? Forget it! False alarm! BRIAN: Ass ahoy.
+
+<!-- 彼得，现在 7 点了，你居然还穿着裤子呢。 -->
 Peter, it's 7:00 and you've still got your pants on.
+
+<!-- “这是什么特别的场合吗？ 他要去参加一个男子单身派对
+Occasion 的音标是：/əˈkeɪʒən/。
+Occasion 是名词，表示 场合、时机 或 事件，通常指特定的时刻或特殊的事件。
+
+A stag party（也叫 stag do 或 bachelor party）是指为即将结婚的男性举办的 单身派对。这种派对通常由朋友组织，目的是让新郎在结婚前和朋友们一起庆祝并享受最后的单身时光。
+Stag 是指雄鹿，原本是指一种动物，但在俚语中用来形容单身男性（即未婚的男性）。
+ -->
 What's the occasion? He's going to a stag party.
+
+<!-- 露易斯，我一整周都努力工作来供养这个家。
+
+ -->
 Lois, I work hard all week to provide for this family.
+
+<!-- 我是一家之主 -->
 I am the man of the house.
+
+<!-- 作为一家之主，我命令你准许我去参加这个派对。 -->
 As the man, I order you to give me permission to go to this party.
+
+<!-- 听着，至少向我保证你不会喝酒。 -->
 Look, at least promise me you won't drink.
+
+<!-- 酒精总会引发麻烦 -->
 Alcohol always leads to trouble.
 Come on.
+
+<!-- 你这是杞人忧天。 -->
 You're worrying about nothing.
+
+<!-- 还记得你在教堂喝圣餐酒喝醉的事吗？（然后）于是上帝让可怜的约伯全身长满了溃烂的毒疮。
+“got drunk” 是 “get drunk” 的过去式，意为 “喝醉” ，描述醉酒的状态。
+“off” 在这里表示 “由于，因为”，表明导致喝醉的原因。
+communion：英 [kəˈmjuːniən] ；美 [kəˈmjuːniən] “Communion wine” 指 “圣餐酒” 
+“smote” 是 “smite” 的过去式，其音标为：英 [sməʊt]；美 [smoʊt]。“smite” 常见意思为 “猛击；重击；打击” ，在宗教语境中也有 “降灾于；惩罚” 等含义 
+“festering boils” 的音标为：
+festering：英 [ˈfestərɪŋ]，美 [ˈfestərɪŋ]
+boils：英 [bɔɪlz]，美 [bɔɪlz]
+“festering boils” 意思是 “溃烂的疖子” ，“festering” 是 “fester（溃烂；化脓）” 的现在分词形式，作形容词表示 “溃烂的；化脓的” ；“boils” 是 “boil（疖子）” 的复数形式。
+ -->
 Remember when you got drunk off the Communion wine at church? And so the Lord God smote poor Job with festering boils all over his body.
+
+<!-- 天哪，我讨厌他讲这个故事 -->
 Man, I hate it when he tells this story.
+
+<!-- 牧师：然而，奇迹的是，约伯依然能够保持他的尊严。
+“priest” 的音标：英 [priːst]；美 [priːst] ，指 “牧师；神父” ，尤指基督教、天主教等宗教中负责宗教事务、主持宗教仪式的神职人员。
+miraculously 的音标：英 [mɪˈrækjələslɪ]；美 [mɪˈrækjələslɪ]。该词为副词，意为 “奇迹般地；不可思议地”，源自形容词 “miraculous（奇迹般的；神奇的）”。
+“dignity” 的音标：英 [ˈdɪɡnəti]；美 [ˈdɪɡnəti] 。作名词时，常见意思为 “尊严；庄重；尊贵” 。
+ -->
 PRIEST: Yet, miraculously, Job was still able to retain his dignity.
+
+<!-- 那真的是基督的血吗？ - 是的。 -->
 - Is that really the blood of Christ? - Yes.
+
+<!-- 天哪，那家伙肯定是喝得烂醉。还有那次在冰淇淋店的时候。
+这里 “wasted” 在口语中有 “喝醉的；（因吸毒而）迷醉的” 意思
+ -->
 Man, that guy must've been wasted And then there was that time at the ice cream store.
+
+<!-- 奶油朗姆口味是我的最爱。
+这里 “Butter Rum” 指的是一种冰淇淋口味，“Butter” 意为 “奶油” ，“Rum” 是 “朗姆酒” ，这种口味将奶油的香甜与朗姆酒独特风味相融合 。
+ -->
 Butter Rum's my favorite.
+
+<!-- 还记得我们去看《费城故事》那天你喝了杯爱尔兰咖啡吗？（观众在哭泣）
+“Irish coffee” 指爱尔兰咖啡，是一种含有爱尔兰威士忌的咖啡饮品 
+Irish 的音标：英 [ˈaɪrɪʃ]；美 [ˈaɪrɪʃ] 。该词作形容词时，意为 “爱尔兰的；爱尔兰人的；爱尔兰语的”；作名词时，指 “爱尔兰人；爱尔兰语” 。
+ -->
 Remember you had an Irish coffee the day we went to see Philadelphia? [Audience crying.]
+
 I got it.
+
+<!-- 那是《飞越未来》里的那个演员 -->
 That's the guy from Big.
+
+<!-- 汤姆・汉克斯，就是他。 -->
 Tom Hanks, that's it.
+
+<!-- 汤姆・汉克斯这人很有趣。 -->
 Funny guy, Tom Hanks.
+
 Everything he says is a stitch.
 I have AIDS.
 - Promise me, Peter.
