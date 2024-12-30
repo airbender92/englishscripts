@@ -1,21 +1,74 @@
 1 WATCHER: Time.
 Space.
 Reality.
+<!-- 这不仅仅是一条直线式的路径。 -->
 It's more than a linear path.
+
+<!-- 它是一座蕴含无尽可能的棱镜，在这里，一个单一的选择就能衍生出无数的现实，从你所熟知的世界创造出平行世界。
+prism 的音标：英 [ˈprɪzəm]；美 [ˈprɪzəm] 。它常见的意思为 “棱镜；棱柱体” 
+“branch out into” 是一个动词短语，常见含义为 “拓展到；涉足；分支成”，尤指在业务、活动、兴趣等方面从原有的领域扩展到新的、不同的领域。
+alternate 作形容词时，音标：英 [ɔːlˈtɜːnət]，美 [ˈɔːltərnət]，意为 “交替的；轮流的；间隔的；候补的” 。
+“alternate worlds” 常见释义为 “ 异世界；平行世界”，指与我们所熟知的现实世界不同，在另一个维度或层面上存在的世界，常出现在科幻、奇幻作品中。
+ -->
 It's a prism of endless possibility, where a single choice can branch out into infinite realities, creating alternate worlds from the ones you know.
+
+<!-- 我是守望者 / 观察者。 -->
 I am the Watcher.
+
+<!-- 我将引领你探索这些广阔的全新现实世界。
+vast 的音标：英 [vɑːst]；美 [væst]。该词主要用作形容词，意为 “广阔的；巨大的；大量的；巨额的”。
+ -->
 I am your guide through these vast new realities.
+
+<!-- 跟我来，思考一下 “倘若…… 会怎样？” 这个问题。1943 年 6 月，地球。
+“ponder” 是动词，音标：英 [ˈpɒndə(r)]，美 [ˈpɑːndər]。
+它的主要意思为 “仔细考虑；深思熟虑” ，强调长时间、深入地思考某个问题或事情 
+ -->
 Follow me and ponder the question "What if?" Earth, June, 1943.
+
+<!-- 纳粹军队在欧洲大陆上挺进，所到之处留下死亡与毁灭。
+marches 的音标：英 [mɑːtʃɪz]；美 [mɑːrtʃɪz] 。它是 march 的第三人称单数形式，在句中作动词，意为 “行军；齐步走” 。
+ -->
 The Nazi army marches across Europe, leaving death and destruction.
+
+<!-- 盟军联合起来，打造出一种新型战士。
+allied 的音标：英 [ˈælaɪd; əˈlaɪd]；美 [ˈælaɪd, əˈlaɪd]。
+作形容词时，它有 “联合的；同盟的；相关的” 等意思，常用于描述国家、组织等为共同目标而结成联盟的关系，比如 “Allied forces”（盟军） 
+“band together” 是一个短语动词，意为 “联合起来；团结在一起”，尤指为了实现某个共同目标或应对某种困难情况，原本分散的个体或群体聚集协作。
+ -->
 The Allied armies band together to create a new kind of soldier.
 A Super Soldier.
+
+<!-- 在人类最黑暗的时刻，一个来自布鲁克林的瘦小男孩成为了美国队长。
+“skinny” 意思是 “极瘦的；皮包骨的”，常带有贬义或表示某人身材过于消瘦
+ -->
 At humanity's darkest hour, a skinny kid from Brooklyn became Captain America.
+
+<!-- 在扭转第二次世界大战的局势后，他做出了最大的牺牲，恢复了和平，拯救了这个宇宙。
+“the tide of” 常见意思为 “…… 的潮流；…… 的趋势；…… 的形势” ，常用来形象地描述事物发展的态势，如同潮水般具有影响力和方向性。
+“ultimate sacrifice” 的音标：英 [ˈʌltɪmət ˈsækrɪfaɪs]；美 [ˈʌltɪmət ˈsækrɪfɪs] ，意思是 “终极牺牲”，常指为了某种崇高目的而付出生命。
+“restore” 是动词，常见义项为 “恢复；修复；归还” 
+ -->
 After turning the tide of World War II, he made the ultimate sacrifice, restoring peace and saving this universe.
+
+<!-- 但在另一个宇宙中，一个单一的选择造就了一位全新的英雄。 -->
 But in another universe, a single choice created a whole new hero.
+
+<!-- 这一切都是为了打造一名超级战士。 -->
 All this to make one Super Soldier.
+
+<!-- 巴黎已经沦陷。 -->
 Paris has fallen.
+<!-- 伦敦可能就是下一个（沦陷的城市）。 -->
 London might be next.
+
+<!-- 如果这奏效，你就能结束这场战争。 -->
 If this works, you could end the war.
+
+<!-- 我们这些凡夫俗子只能梦想着做这样的事。
+mere mortals 的音标：英 [mɪə(r) ˈmɔːtlz]；美 [mɪr ˈmɔːrtlz] 。
+“mere” 意为 “仅仅；只不过” ，“mortals” 是 “mortal” 的复数形式，意思是 “凡人；普通人” 。整个短语指 “普通凡人” 。
+ -->
 We mere mortals can only dream of doing such things.
 (INDISTINCT CHATTER) Agent Carter, wouldn't you be more comfortable in the booth? No, I'd prefer to stay.
 WATCHER: There.
