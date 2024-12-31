@@ -211,7 +211,7 @@ She's not human?
 
 <!-- 一个自称磷博士的反社会者。
 “sociopath”英 [ˈsəʊsiəʊpæθ]；美 [ˈsoʊsioʊpæθ]。 指反社会者，这类人往往缺乏正常的社会情感和道德观念，行为常常违反社会规范。 “calls himself” 意思是 “自称” ，表明 “磷博士” 并非其真实称谓。
-
+Phosphorus 英式发音：/ˈfɒs.fər.əs/ 美式发音：/ˈfɑːs.fər.əs/ 磷（化学元素，符号：P）
  -->
 [Waller] A sociopath who calls himself Dr. Phosphorus.
 
