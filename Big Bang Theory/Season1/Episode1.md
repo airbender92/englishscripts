@@ -1,82 +1,219 @@
+
+<!-- 如果一个光子被射向带有两条狭缝的平板，并且对（光子通过的）其中任意一条狭缝进行观测
+
+“photon” 英 [ˈfəʊtɒn]；美 [ˈfoʊtɑːn]常见词性为名词，在物理学领域指 “光子” ，是光（或其他电磁辐射）的基本粒子，具有波粒二象性，既可以表现出粒子的特性，如具有能量和动量，也能展现出波动的性质，如干涉和衍射现象。
+里 “direct” 取 “引导；使…… 朝向” 之意，“through” 表示 “穿过” ，“plane” 就是 “平面”。
+slits：英 [slɪts]；美 [slɪts] 作名词时，为 “slit” 的复数形式，意为 “狭缝；裂缝”
+“either is observed” 常见的意思是 “（二者之中）任意一个被观测到” 
+ -->
 If a photon is directed through a plane with two slits in it and either is observed.
 .
 .
 .
 .
-.
+<!-- 它不会同时穿过两条（狭缝）。 -->
 it will not go through both.
+<!-- 如果不进行观测，它就会（同时穿过两条狭缝）。 -->
 If unobserved, it will.
+<!-- 如果在它离开平板之后、击中目标之前对其进行观测。-->
 If it's observed after it left the plane, before it hits its target.
 .
 .
 -.
 .
-.
+<!-- 它就不会是穿过了两条狭缝。 -->
 it will not have gone through both slits.
 -Agreed.
+<!-- 你想说什么？没什么特别的意思，我只是觉得这印在 T 恤上会是个不错的点子。 -->
 What's your point? There's no point, I just think it's a good idea for a T-shirt.
 -Excuse me.
+<!-- - 等等 -->
 -Hang on.
+<!-- 横向第一格的答案是 “Aegean（爱琴海）”，纵向第八格的答案是 “Nabokov（纳博科夫）”  -->
 One across is Aegean, eight down is Nabokov.
+<!-- 横向第 26 格是 “MCM” 。
+在填字游戏中，“twenty - six across” 表示横向上第 26 个待填的空格 -->
 Twenty-six across is MCM.
+
+<!-- 纵向第 14 格是 —— 把你的手指挪开。 -->
 Fourteen down is-- Move your finger.
+
+<!-- ——“phylum（门，生物分类学中的一个层级）”，这使得横向第 14 格是 “Port - Au - Prince（太子港，海地首都）” 。 -->
 --phylum, which makes 1 4 across Port-Au-Prince.
+
+<!-- 瞧见没，“杜瓦利埃老爹”（对弗朗索瓦・杜瓦利埃的称呼）的 “首都构想”，说的就是太子港。 -->
 See, Papa Doc's capital idea, that's Port-Au-Prince.
+
 Haiti.
+
 -Can I help you? -Yes.
+<!-- 嗯，这里是高智商精子库吗？要是你还非得问这个问题，或许你就不该来这儿。
+sperm bank：英 [ˈspɜːm bæŋk]；美 [ˈspɜːrm bæŋk]精子库，是一种保存精子以用于人工授精、科学研究等目的的机构 。
+ -->
 Um, is this the high-IQ sperm bank? If you have to ask, maybe you shouldn't be here.
+
+<!-- 我觉得就是这儿了 -->
 I think this is the place.
+
+<!--  把这些填好。 -->
 -Fill these out.
+
 -Thank you.
+
+<!-- - 我们马上回来 -->
 -We'll be right back.
+
+<!-- - 哦，不着急。 -->
 -Oh, take your time.
+
+<!-- 我就把我的填字游戏做完。 -->
 I'll just finish my crossword puzzle.
+
 Oh, wait.
+
+<!-- 伦纳德，我觉得我做不到这件事。 -->
 Leonard, I don't think I can do this.
+
+<!-- 什么，你开玩笑吧？你可是个准专业选手。
+semipro 的音标：英 [ˈsemɪˈprəʊ]；美 [ˈsɛmiˈproʊ] 。
+它是 semi-professional 的缩写，作名词时，意为 “半职业性运动员”；作形容词时，意思是 “半职业性的” 。
+ -->
 What, are you kidding? You're a semipro.
+
 No.
+
+<!-- 我们这是在进行基因欺诈。
+genetic：英 /dʒəˈnetɪk/；美 /dʒəˈnetɪk/
+fraud：英 /frɔːd/；美 /frɔːd/
+committing：动词 commit 的现在分词形式，常见意思为 “犯（罪）；做（错事等）”“承诺；保证”“拨出；调配” 等 ，在 “committing genetic fraud” 中取 “做（错事等）” 之意，即实施某种不正当行为。
+genetic：形容词，意为 “基因的；遗传的；起源的” ，在此短语里表示与基因相关的。
+fraud：名词，意思是 “欺诈；骗子；伪劣品” ，这里指通过欺骗手段获取不当利益或造成不良后果的行为，即欺诈行为。
+ -->
 We are committing genetic fraud.
+
+<!-- 无法保证我们的精子能孕育出高智商的后代。
+offspring 的音标：英 [ˈɒfsprɪŋ]；美 [ˈɔːfsprɪŋ]。
+它是名词，常见意思为 “后代”“子女”“幼崽” ，既可以指人类的后代，也可用于描述动物的幼崽 
+ -->
 There's no guarantee our sperm's going to generate high-IQ offspring.
+
+<!-- 想想这个（情况 / 问题）。 -->
 Think about that.
+
+<!-- 我有个妹妹，和我基本是相同的 DNA 组合，可她不过是福爵客（Fuddruckers）餐厅的女招待。 
+hostesses 的音标：英 [ˈhəʊstɪsɪz]；美 [ˈhoʊstɪsɪz] 。
+它是 hostess 的复数形式，hostess 作名词时，常见意思为 “女主人；女主持人；（餐馆的）女招待；（飞机等上的）女乘务员” ；作动词时，意为 “做东，款待”。
+-->
 I have a sister with the same basic DNA mix who hostesses at Fuddruckers.
+
+<!-- 谢尔顿，这可是你的主意。 -->
 Sheldon, this was your idea.
+
+<!-- 靠这个在公寓里多挣点钱，好添置部分 T1 带宽？我懂。
+fractional 的音标：英 [ˈfrækʃənl]；美 [ˈfrækʃənl]。 部分的；不完整的：指并非整体，只是其中一部分
+ -->
 A little extra money to get fractional T1 bandwidth in the apartment? I know.
+
+<!-- 而且我确实渴望更快的下载速度。
+yearn 的音标：英 [jɜːn]；美 [jɜːrn] 。
+“yearn for” 是一个常用短语，意为 “渴望；向往；期盼”，表达对某人或某物强烈的渴望或向往之情 ，后接渴望的对象，可以是人、物或某种状态。
+ -->
 And I do yearn for faster downloads.
+
+<!-- 会有某个可怜的女人把她的希望寄托在我的精子上。
+“pin one's hopes on” 是一个固定短语，意思是 “把希望寄托在…… 上”，表达将自己对未来的期望、憧憬等聚焦于某人或某事。
+ -->
 There's some poor woman who's gonna pin her hopes on my sperm.
-What if she winds up with a toddler who doesn't know if he should use.
-.
-.
-.
-.
-.
-a differential to solve for the area under a curve? -I'm sure she'll still love him.
+
+<!-- 要是她最后养出个连会不会用微分求曲线下面积都不知道的小孩该怎么办？ - 我敢肯定她依然会爱他。
+“winds up with” 意思是 “最终获得；以…… 告终” ，
+“toddler” 指 “学步的儿童；刚学走路的小孩”。
+differential 的音标：英 [ˌdɪfəˈrenʃl]；美 [ˌdɪfəˈrenʃl] 微分
+ -->
+What if she winds up with a toddler who doesn't know if he should use a differential to solve for the area under a curve? -I'm sure she'll still love him.
+
 -I wouldn't.
+
 Well, what do you wanna do? -I want to leave.
+
 -Okay.
+
+<!-- 离开的流程是什么？ - 我不知道。
+protocol 的音标：英 [ˈprəʊtəkɒl]；美 [ˈproʊtəkɔːl] 协议；议定书
+ -->
 -What's the protocol for leaving? -I don't know.
+
+<!-- 我以前从没反悔过提供精子这件事。
+reneged 的音标：英 [rɪˈniːɡd]；美 [rɪˈniːɡd] 。
+它是动词 renege 的过去式和过去分词形式，意思为 “违约；食言；背信弃义” ，常指违背承诺、协议或约定。
+proffer 的音标：英 [ˈprɒfə(r)]；美 [ˈprɑːfər] 。作动词时，意为 “主动提供；提出”，常指自愿将某物提供给他人
+ -->
 I've never reneged on a proffer of sperm before.
+
+<!-- 咱们试试直接走出去。 -->
 Let's try just walking out.
+
 Okay.
+
+<!-- 你还在为精子银行的事生气吗？ - 没有。 -->
 -Are you still mad about the sperm bank? -No.
+
+<!-- 你想听一个关于楼梯的趣事吗？ 不太想听。 -->
 You wanna hear an interesting thing about stairs? Not really.
-If the height of a step is off by as little as two millimeters -.
-.
-.
-most people will trip.
+
+<!-- 如果一级台阶的高度偏差哪怕只有两毫米，大多数人都会被绊倒。
+“is off by” 是一个短语，常用来表示 “与…… 有偏差；偏离…… 的量为” ，其中 “off” 表示 “偏离、脱离” 的意思，“by” 用来引出偏离的具体数值或程度。
+“as little as” 意为 “少至；仅仅”，用于强调数量或程度非常小 。常用来突出某个数值在同类情况中处于较低的水平。
+trip：英 [trɪp]；美 [trɪp] 绊倒
+ -->
+If the height of a step is off by as little as two millimeters - most people will trip.
+
 -I don't care.
+
 Two millime--? That doesn't seem right.
+
 It's true.
-I did a series of experiments when I was 1 2.
-My father broke his clavicle.
+
+<!-- 我 12 岁的时候做了一系列实验。结果我父亲摔断了锁骨。
+clavicle 的音标：英 [ˈklævɪkl]；美 [ˈklævɪkl]。它是名词，意为 “锁骨” 
+ -->
+I did a series of experiments when I was 1 2. My father broke his clavicle.
+
+<!-- 这就是他们送你去寄宿学校的原因吗？ 不是。
+“boarding school” 指 “寄宿学校”
+ -->
 Is that why they sent you to boarding school? No.
+
+<!-- 那是我研究激光带来的后果。
+“my work with...” 直译为 “我与…… 相关的工作；我对…… 的研究” ，这里 “work” 表示工作、研究等行为，“with” 表明与后面所接事物存在关联。
+lasers 的音标：英 [ˈleɪzəz]；美 [ˈleɪsərz] ，它是 laser 的复数形式。
+laser 作名词时，意为 “激光；激光器” 
+ -->
 That was the result of my work with lasers.
+
+<!-- 我主动上前，面带微笑（打招呼）。新邻居吗？显然是。
+evidently 的音标：英 [ˈevɪdəntli]；美 [ˈevɪdəntli]。它是副词，常见的意思为 “显然；明显地；据说” 。
+ -->
 I go ahead and smile New neighbor? Evidently.
+
+<!-- 比起老邻居，这可是个显著的改善。
+Significant improvement over ： “比…… 有显著的改进 / 提高”
+ -->
 Significant improvement over the old neighbor.
+
+<!-- （说的是）那个两百磅重、患有皮肤病的异装癖者吗？ 没错，就是她。
+transvestite 的音标：英 [trænzˈvestaɪt]；美 [trænzˈvestaɪt] 。作名词时，意为 “异装癖者；易装癖者（常指喜欢穿异性服装的人）”；作形容词时，意为 “有易装癖的；爱穿异性服装的” 。
+“with a skin condition” 是一个介词短语，直译为 “患有皮肤疾病” 。这里 “condition” 表示 “健康状况；疾病” ，常用来描述身体某个方面的异常情况。
+ -->
 Two-hundred pound transvestite with a skin condition? Yes, she is.
+
 Oh, hi.
 -Hi.
 -Hi.
+
+<!-- 嗨？我们不是故意要打断（你们）。 -->
 Hi? We don't mean to interrupt.
+
 We live across the hall.
 Oh, that's nice.
 No.
