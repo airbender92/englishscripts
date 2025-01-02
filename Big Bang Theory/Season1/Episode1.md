@@ -214,14 +214,20 @@ Oh, hi.
 <!-- 嗨？我们不是故意要打断（你们）。 -->
 Hi? We don't mean to interrupt.
 
+<!-- 我们住在走廊对面。-->
 We live across the hall.
+
 Oh, that's nice.
+
 No.
+
 We don't live together.
-I mean .
-.
-.
-we live together, but in separate, heterosexual bedrooms.
+
+<!-- 我的意思是我们住在一起，但各自住在不同的异性恋式（传统男女分住）的卧室里。
+heterosexual 英音：/ˌhetərəˈsekʃuəl/ 美音：/ˌhɛtəroˈsɛkʃuəl/形容词：异性恋的；异性的。
+ -->
+I mean we live together, but in separate, heterosexual bedrooms.
+
 Okay, well, guess Iâm your new neighbor.
 -Penny.
 -Leonard.
@@ -234,88 +240,124 @@ Well.
 .
 .
 Oh, welcome to the building.
+
 Oh, thank you.
+
 Maybe we can have coffee sometime.
+
 -Oh, great.
 -Great.
 -Great.
 -Great.
+
 Well, bye.
+
 -Bye.
 -Bye.
+
+<!--我们本应该邀请她共进午餐吗？不。 
+“Should we have + 过去分词” 是一个常用的英语结构，属于虚拟语气的一种表达，用于对过去发生事情的一种反思、假设或后悔，意思是 “我们本应该……（但实际上没有做）”  -->
 Should we have invited her for lunch? No.
+
+<!-- 我们准备开始看《太空堡垒卡拉狄加》第二季。 -->
 We're gonna start season two of Battlestar Galactica.
+
+<!-- 我们已经看过《太空堡垒卡拉狄加》第二季的 DVD 碟片了。 -->
 We already watched the season two DVDs.
+
+<!-- 还没看过带解说版的。
+commentary 的音标：英 [ˈkɒmənteri]；美 [ˈkɑːmənteri]。（尤指电台或电视台所作的）实况报道，现场解说
+ -->
 Not with commentary.
+
 I think we should be good neighbors.
+
+<!--邀请她过来，让她感受到受欢迎。
+“invite her over” 是一个常用的口语表达，意思是 “邀请她过来（到自己所在的地方，如家里、聚会场所等）” 。
+  -->
 Invite her over, make her feel welcome.
+
 We never invited Louie/Louise over.
+
 Well, and that was wrong of us.
+
+<!-- 我们需要扩大我们的社交圈子。
+“widen our circle” 字面意思是 “拓宽我们的圈子” ，在实际语境中，常指 “扩大我们的社交圈” ，即结识更多的人，拓展人际关系范围 
+ -->
 We need to widen our circle.
+
 I have a very wide circle.
+
 I have 21 2 friends on MySpace.
+
+<!-- 是的，而且他们当中有个人你从未见过。 -->
 Yes, and you've never met one of them.
+
+<!-- 这正是其美妙之处 -->
 That's the beauty of it.
+
 I'm gonna invite her over.
+
+<!-- 我们会享用一顿美餐，聊聊天。 -->
 We'll have a nice meal and chat.
+
+<!-- 聊天？我们可不聊天，至少线下不聊。 -->
 Chat? We don't chat, at least not off-line.
+
 Well, it's not difficult.
-You just listen to what she says.
-.
-.
-.
-.
-.
-and then you say something appropriate in response.
+
+<!-- 你只需听听她说什么，然后做出恰当回应就行。 -->
+You just listen to what she says. and then you say something appropriate in response.
+
+<!-- 这样做目的何在？ - 嗨。
+“To what end?” 直译为 “为了什么目的” ，这里说话者对前文提到的 “听对方说话并做出回应” 这一行为的目的表示质疑。 -->
 To what end? -Hi.
+
 Again.
 -Hi.
 -Hi.
 -Hi.
-Anyway.
-.
-.
-.
-.
-.
-we brought home Indian food.
-.
-.
-.
-.
-.
-and I know that moving can be stressful.
-.
-.
-.
-.
-.
-and I find that when I'm undergoing stress.
-.
-.
-.
-.
-.
-that good food and company can have a comforting effect.
-Also, curry's a natural laxative and I don't have to tell you that, you know.
-.
-.
-.
-.
-.
-a clean colon is just one less thing to worry about.
-I'm no expert, but in the context of a lunch invitation.
-.
-.
-.
-.
-.
-you might wanna skip the reference to bowel movements.
+<!-- 不管怎样，我们把印度菜带回了家。 -->
+Anyway. we brought home Indian food. 
+
+<!-- 我知道搬家可能会很有压力，而且我发现当我承受压力时，美味的食物和有人陪伴能起到安慰作用。
+“undergoing stress” 意思是 “承受压力”“经历压力” 。其中 “undergo” 常见意思为 “经历，经受（尤指不好或困难的事）” ，“stress” 表示 “压力” 
+ -->
+and I know that moving can be stressful. and I find that when I'm undergoing stress. that good food and company can have a comforting effect.
+
+<!-- 另外，咖喱是一种天然的泻药，这我就不必跟你说了吧，你知道的，肠道干净了，就少了一件烦心事。
+curry 的音标：英 [ˈkʌri]；美 [ˈkɜːri] 。作名词时，意为 “咖喱；咖喱菜肴”
+laxative 的音标：英 [ˈlæksətɪv]；美 [ˈlæksətɪv]。该词既可用作名词，指 “泻药”；也可用作形容词，意为 “通便的；放松的” 。
+colon 的音标：英 [ˈkəʊlən]；美 [ˈkoʊlən] 名词，意为 “结肠”：
+“just one less thing” 字面意思是 “仅仅少一件事物” ，在常见语境中，常与 “to worry about” 等搭配，表达 “少一件烦心事”“少一件要处理的事” 等含义，传递一种事情简化、压力减轻的感觉
+ -->
+Also, curry's a natural laxative and I don't have to tell you that, you know. a clean colon is just one less thing to worry about.
+
+<!-- 我虽说不是行家，但就午餐邀请这个情境而言，你或许最好别提及排便相关的事。
+“no expert” 常见含义为 “不是专家；不擅长”
+“in the context of” 意为 “在…… 的背景下；在…… 的情境中”，用于说明某事物所处的特定环境或条件，以便更准确地理解相关内容。
+“you might wanna skip” 是一种较为口语化的表达，意思是 “你或许想要跳过；你最好别做” 。
+“the reference to” 意思是 “提及；涉及；参考”
+“bowel movements” 常见释义为 “排便；大便” ，是医学和日常交流中用于描述人体排泄过程的术语 。
+bowel 的音标：英 [ˈbaʊəl]；美 [ˈbaʊəl] 。解剖学含义：指 “肠” 
+ -->
+I'm no expert, but in the context of a lunch invitation. you might wanna skip the reference to bowel movements.
+
+<!-- 哦，你是邀请我过去吃饭吗？是的。 -->
 Oh, you're inviting me over to eat? Yes.
+
 Oh, that's so nice.
+
+<!-- 我很乐意。 -->
 I'd love to.
+
 Great.
+
+<!-- 所以，你们在这儿都玩些什么找乐子呢？呃，今天我们尝试了靠自慰来赚钱。
+masturbating 的音标：英 [ˈmæstəbeɪtɪŋ]；美 [ˈmæstərbeɪtɪŋ] ，它是 masturbate 的现在分词形式，意为 “手淫；自慰” ，该词常带有私密、不适合公开讨论的性质 
+ -->
 So, what do you guys do for fun around here? Well, today we tried masturbating for money.
+
 -Okay, well, make yourself at home.
 -Okay.
 -Thank you.
