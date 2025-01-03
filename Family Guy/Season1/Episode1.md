@@ -281,32 +281,78 @@ Tom Hanks, that's it.
 <!-- 汤姆・汉克斯这人很有趣。 -->
 Funny guy, Tom Hanks.
 
+<!-- 他说的每句话都特别逗。
+这里 “a stitch” 是一种非正式表达，意为 “极其有趣的人或事”，所以这句话是在形容他说话很风趣。
+stitch 的音标：英 [stɪtʃ]；美 [stɪtʃ] 。作名词时，常见意思有 “一针；缝法；针法；（肋部的）剧痛；（因笑引发的）腹痛” 
+ -->
 Everything he says is a stitch.
+
 I have AIDS.
+
 - Promise me, Peter.
 - Lois, honey, I promise.
+
+<!-- 今晚我绝对滴酒不沾。 -->
 Not a drop of alcohol is gonna touch these lips tonight.
+
+<!-- 谁想玩 “喝啤酒” 游戏？我想玩。
+这里 “Right here” 字面意思是 “就在这儿”，在语境中表达 “（我）在这儿呢”，相当于 “我想玩”，用于表明自己的参与意愿。 -->
 Who wants to play Drink The Beer? Right here.
 - You win.
 - All right.
+
+<!-- 我能赢到什么？再来一瓶啤酒！我要冲击高分！实际上，查理拿到了最高分。
+
+ -->
 What do I win? Another beer! I'm going for the high score! Actually, Charlie's got the high score.
+
 Man.
+
 Your clock won't flush.
+
+<!-- 伙计们，我感觉有点不太好。 -->
 I feel kind of bad, guys.
+
 I promised my wife I wouldn't drink.
+
 - Don't feel bad, Peter.
 - Gee.
+
+<!-- 我从未那样想过。 -->
 I never thought of it like that.
+
+<!-- 你带色情影片了吗？我带色情影片了吗？你会喜欢的。
+“porno” 的音标：英 [ˈpɔːnəʊ]，美 [ˈpɔːrnoʊ] 。它是 “pornography” 的非正式缩写，意为 “色情作品（尤指色情影片或图片）”
+ -->
 Did you bring the porno? Did I bring the porno? You're gonna love it.
+
+<!-- 这是一部经典之作 -->
 It's a classic.
+
 Listen, Ilsa.
+<!-- 要是我把这玩意儿拿出来，上面却没有你，你会后悔的。 -->
 If I take this thing out and you're not on it, you'll regret it.
+
 Not today or tomorrow.
+
+<!-- 瑞克：但很快（就会发生），而且会影响你余生。 -->
 RICK: But soon, and for the rest of your life.
+
+<!-- 快点，伊尔莎！快上车（或快点行动，具体需结合语境 ）！【电视里播放着时髦的音乐】 -->
 Come on, llsa! Get on it! [Funky music on TV.]
+
+<!-- 旁白：这座雕像来自法国的馈赠。
+statue 的音标：英 [ˈstætʃuː]，美 [ˈstætʃuː]。 该词意为 “雕像；塑像”
+ -->
 NARRATOR: The statue was a gift from France.
+
 What is this? Man.
+
+<!-- 我孩子肯定是为了历史课作业，把这（录像带之类的存储介质）给录上别的内容了。
+这里 “tape over” 指在已有的录音、录像等存储介质上覆盖录制新内容 
+ -->
 My kid must've taped over this for history class.
+
 [Groans.]
 The Statue of Liberty? What are we gonna do? - Boys, we're gonna drink till she's hot.
 - That's just crazy enough to work.

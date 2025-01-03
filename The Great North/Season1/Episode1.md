@@ -1,18 +1,52 @@
-1 - Look up there - What do you see? Nature and stuff - Like a rock - And a tree Oh, the Great North Way up here, you can breathe the air Catch some fish Or gaze at a bear Wow Oh, the Great North Here we live, oh, oh Here we'll stay, oh, whoo From longest night to longest day In the Great North.
+<!-- 往那儿看。- 你看到什么了？大自然之类的东西。- 像一块石头。- 还有一棵树。哦，伟大的北方。在这儿，你可以呼吸空气，抓些鱼，或者凝视一头熊。哇哦，伟大的北方。我们生活在这里，哦哦。我们会留在这里，哦哦。从最长的夜晚到最长的白天，在伟大的北方。
+gaze 的音标：英 [ɡeɪz]；美 [ɡeɪz] 。
+它既可用作动词，也可用作名词，含义如下：
+动词：意为 “凝视；注视；盯着看” ，常指长时间、目不转睛地看，尤因惊讶、兴趣或思考而凝视
+ -->
+- Look up there - What do you see? Nature and stuff - Like a rock - And a tree Oh, the Great North Way up here, you can breathe the air Catch some fish Or gaze at a bear Wow Oh, the Great North Here we live, oh, oh Here we'll stay, oh, whoo From longest night to longest day In the Great North.
+
 [grunts.]
+
+<!-- 好了，这个月要用的木柴我已经劈好了，渔网也修补好了，还罐装了一批胡椒果冻，并且构思了我的万圣节服装
+“mended” 是 “mend” 的过去式和过去分词，音标：英 [ˈmendɪd]；美 [ˈmendɪd]。 它常见的意思为 “修理；修补；缝补；修复（关系）；弥合（分歧）” 
+“a batch of” 意为 “一批；一组；一群”，用来表示数量不确定但属于同一批生产、处理或出现的事物或人。
+“pepper jelly” 指 “胡椒果冻” ，是一种将胡椒与制作果冻的原料（如果汁、糖、果胶等）混合制成的食品。
+“brainstormed” 的音标：英 [ˈbreɪnstɔːmd]，美 [ˈbreɪnstɔːrmd] 。
+它是 “brainstorm” 的过去式和过去分词，常见意思为 “集思广益；集体讨论；头脑风暴” ，也有 “突然想到，灵机一动想出（主意）” 之意。
+“Halloween costume” 指 “万圣节服装” 
+ -->
 All right, I've chopped this month's wood, mended the fishing nets, canned a batch of pepper jelly, brainstormed my Halloween costume.
+
+<!-- 我觉得大家会喜欢我扮成《怪兽大学》里的萨利。 -->
 I think people are gonna love me as Sully from Monsters University.
-And it's 5:00 a.
-m.
-? Kids'll be up soon.
-Ooh, I almost forgot to stare with wild wonder at Alaska's majesty while whispering "Hot dog.
-" [whispers.]
+
+<!-- 现在是早上 5 点吗？孩子们很快就会起床了。
+“be up” 起床；起身：常描述某人结束睡眠状态，从床上起来
+ -->
+And it's 5:00 a.m.? Kids'll be up soon.
+
+<!-- 哦，我差点忘了要一边带着惊叹的神情凝视阿拉斯加的壮美，一边低声念叨 “好家伙”
+“wild wonder” 可以理解为 “强烈的惊叹；狂热的惊奇感”。“wild” 在这里表示强烈的、极度的 ，增强了 “wonder（惊奇、惊叹）” 的程度，描绘出一种极为震撼、充满激情的惊叹状态 
+majesty 的音标：英 [ˈmædʒəsti]，美 [ˈmædʒəsti] 。雄伟壮观；威严；庄严：用于描述事物展现出令人敬畏的宏大、壮丽或高贵特质
+ “whisper” 的现在分词形式，意为 “低语；小声说” 。所以 “while whispering” 意思是 “在小声说的同时；一边小声说着” 。
+ “Hot dog” 用于表达惊讶、高兴、激动等情绪，可译为 “好家伙”“太棒了” 。
+ -->
+Ooh, I almost forgot to stare with wild wonder at Alaska's majesty while whispering "Hot dog." [whispers.]
+
 Hot dog.
+
 - Dad.
 - Moon.
+
 Drinking coffee again? Yes.
+
 I am ten.
+
+<!-- 此外，我整晚都没睡，一直在追踪一只红松鼠，我觉得它偷吃了我放在屋顶晾晒的一些博洛尼亚大红肠。
+“bologna” 常见释义为 “博洛尼亚大红肠”，是一种源自意大利博洛尼亚的烟熏猪肉香肠，通常肉质细腻，有多种口味，常被用于制作三明治、披萨等食品 。
+ -->
 Besides, I was up all night tracking a red squirrel I believe ate some bologna I was drying on the roof.
+
 - You mean this guy? - [chittering.]
 - You got him.
 - I'll set him free once I've had a few words with him about whose bologna is whose around here.

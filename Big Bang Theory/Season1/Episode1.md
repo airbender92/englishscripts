@@ -358,18 +358,30 @@ masturbating 的音标：英 [ˈmæstəbeɪtɪŋ]；美 [ˈmæstərbeɪtɪŋ] �
  -->
 So, what do you guys do for fun around here? Well, today we tried masturbating for money.
 
+<!-- 好的，嗯，别拘束，就像在自己家一样。 -->
 -Okay, well, make yourself at home.
 -Okay.
 -Thank you.
 -You're very welcome.
+
 You're very welcome.
+
+<!-- 这看起来可不是小事。 -->
 This looks like some serious stuff.
+
+<!-- 伦纳德，这是你做的吗？实际上，这是我做的。 -->
 Leonard, did you do this? Actually, that's my work.
+
 Wow.
-Yeah, well, it's just some quantum mechanics .
-.
-.
-with a little string theory doodling around the edges.
+
+<!-- 没错，这不过是些量子力学的内容，边上还随便画了点弦理论的草图。
+quantum mechanics 的音标：英 [ˈkwɒntəm mɪˈkænɪks]；美 [ˈkwɑːntəm mɪˈkænɪks] 。它指 “量子力学”
+“string theory” 常见释义为 “弦理论” 。
+doodling 的音标：英 [ˈduːdlɪŋ]，美 [ˈduːdlɪŋ] 。它是 doodle 的现在分词形式，意为 “涂鸦；信手乱画；漫不经心地写” 。
+“doodling around the edges” 字面意思是 “在边缘处涂鸦” ，在语境中可引申为 “顺便简略地探讨（或提及、画些相关草图等）” ，表明只是在主要内容周边做一些非正式、不太深入的相关描绘或思考。
+ -->
+Yeah, well, it's just some quantum mechanics . with a little string theory doodling around the edges.
+
 That part's just a joke.
 It's a spoof of the Born-Oppenheimer approximation.
 So you're, like, one of those Beautiful Mind genius guys.
