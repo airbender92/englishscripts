@@ -95,47 +95,72 @@ Oh, my. So beautiful.
 This is the face of my true love.
 
 [thunderclap]
+
 You were born here?
+
 Yeah.
 
 And why are we here now?
+
 [thunderclap]
+
 [theme music playing]
+
 [faucet running]
+
 [soft grunt]
+
 - [Weasel winces]
 - [door creaking]
 
+<!-- 那是干什么用的？如果我按下这个按钮，就会直接向他们的大脑发出一阵难以忍受的剧痛。
+unbearably 的音标：英 [ʌnˈbeərəbli]；美 [ʌnˈberəbli] 。它是副词，意为 “难以忍受地；无法容忍地” 。
+jolt 的音标：英 [dʒəʊlt]；美 [dʒoʊlt]。
+“painful jolt” 指 “令人痛苦的震动” 或 “剧痛”。在这里，“painful” 表示 “痛苦的”，“jolt” 本意有 “震动；颠簸；震惊” 等，结合语境，常指突然而来、让人痛苦的那种冲击感，在描述身体感受时，可理解为 “剧痛” 。
+ -->
 What does that do? If I press this button, it activates an unbearably painful jolt directly into their brains.
 
 Oh, is cruel, no?
 
 Is the point, yes.
 
+<!-- 你得把衬衫脱下来。 -->
 You need to get your shirt off.
 
+<!-- 你的伤口需要清洗。 -->
 Your wounds need cleaning.
 
 [Rick grunts]
 [sighs]
 
+<!-- 所以，你用这个遥控器控制他们吗？ -->
 So, with the remote, you control them?
 
+<!-- hypothetically 的音标：英 [ˌhaɪpəˈθetɪkli]；美 [ˌhaɪpəˈθetɪkli] 。
+该词为副词，意为 “假设地；假定地；推测地” ，常用来引出基于假设而非事实的陈述或讨论。 -->
 Hypothetically.
 
-They haven't proven themselves to be extraordinarily obedient.
-
-And the skeleton man, Dr. Phosphorus?
+<!-- 他们还没证明自己会格外听话。还有那个骷髅人，磷博士呢？
+“extraordinarily obedient” 的音标及释义如下：
+extraordinarily：英 [ɪkˈstrɔːdnrəli]；美 [ɪkˈstrɔːrdənerəli] ，意为 “极其；非常”。
+obedient：英 [əˈbiːdiənt]；美 [əˈbiːdiənt]，意思是 “顺从的；服从的；听话的” 。
+“extraordinarily obedient” 整体意思是 “极其顺从的；非常听话的”。
+ -->
+They haven't proven themselves to be extraordinarily obedient. And the skeleton man, Dr. Phosphorus?
 
 [Rick] Yeah.
 
+<!-- 他为了得到它试图杀了你？ -->
 He tried to kill you to get it?
 
 - Yeah.
 - Bozhe moi.
 
+<!-- 真是个 “不错” 的团队啊，嗯？
+这里 “quite a...” 常带有讽刺或调侃意味，结合语境，说话者对这个所谓的 “团队” 并不看好 -->
 Quite a team, hmm?
 
+<!-- 我保证，伊拉娜，我会管住这些人，保证你的安全。 -->
 I promise, Ilana, I'll get these folks under control and I'll keep you safe.
 
 Don't worry.
