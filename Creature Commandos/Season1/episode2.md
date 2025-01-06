@@ -3,28 +3,56 @@
 [thunder rumbling]
 [shuddering]
 
+<!-- 儿子，我对这件事感觉不太好
+ “feel good about...” 表示 “对…… 感觉良好”
+ -->
 I don't feel good about this, my son.
 
+<!-- 难道要让每个人都为自己找到一个贴心的妻子，让每头野兽都有自己的配偶，而唯独我孤身一人吗？
+“shall” 在此处带有一种带有询问、某种规定或假设的意味
+bosom 的音标：英 [ˈbʊzəm]；美 [ˈbʊzəm] 。作名词时，常见意思为 “胸部；胸怀；知心朋友” ；作形容词时，意为 “知心的；亲密的” 。
+“mate” 同伴；伙伴
+ -->
 Shall each man find a wife for his bosom and each beast have his mate, and I be alone?
 
 - No, but
 
+<!-- - 父亲，我渴望有个妻子。
+“yearn for” 是一个常用的动词短语，意为 “渴望；向往；思念”，表达对某人或某物深深的期盼或眷恋之情，强调内心强烈的情感。
+ -->
 - I yearn for a wife, Father.
 
+<!-- 如果没有爱，做人还有什么意义呢？ -->
 What is it to be human if not for love?
 
+<!-- 我创造你，是为了探索生与死之间那极其微小的空间。
+“in the interest of”: 为了；鉴于；出于…… 的目的
+infinitesimal 的音标：英 [ˌɪnfɪˈtesɪml]；美 [ˌɪnfɪˈtesɪml]。该词为形容词，意为 “极微小的；极小量的” ，名词形式表示 “无穷小；极微量；极小量”。
+“falls between” 是 “fall between” 的第三人称单数形式，它常见的含义为 “介于…… 之间”，常用来描述事物在位置、数量、性质等方面处于两个事物或范围之间。
+ -->
 I created you in the interest of exploring that infinitesimal space that falls between life and death.
 
+<!-- 我从你身上学到的还不够多，不足以让我觉得有理由再做一次。
+“justify” 表示 “证明…… 有理；为…… 辩护” 
+ -->
 I have not yet learned enough from you to justify doing it again.
 
 You have a wife.
 
+<!-- 你懂得爱而我却不懂，这怎么能算得上公平呢？ 
+fair 的音标：英 [feə(r)]；美 [fer] 。公平的；公正的
+-->
 How is it fair that you know love and I do not?
 
-I am merely saying, if we give it time
+<!-- 我只是说，要是我们耐心等一等。有些人会觉得，要是您不给我造个妻子，唯一公平的补偿办法，就是让我毁掉您创造的那个，父亲。
+“I am merely saying” 常见的意思是 “我只是在说” ， “merely” 意为 “仅仅；只不过”，用于强调说话者陈述的内容并非具有特别深刻或复杂的意图，只是简单表达某种观点或想法 
+“give it time” 常见的意思是 “给它一些时间”，其中 “it” 指代前文提到的某件事、某个情况或某个人，该短语强调解决问题、实现目标或看到变化需要耐心等待。
+“fair remedy” 的音标：英 [feə(r) ˈremədi]；美 [fer ˈremədi] 。
+“fair” 意为 “公平的；公正的” ，“remedy” 作名词时，常见意思为 “补救办法；治疗方法” 。所以 “fair remedy” 意思是 “公平的补救办法” 。
+ -->
+I am merely saying, if we give it time Some would suggest that if you do not make me a wife, the only fair remedy would be for me to destroy yours, Father.
 
-Some would suggest that if you do not make me a wife, the only fair remedy would be for me to destroy yours, Father.
-
+<!-- “那样就能给生命带来平衡，” 他们会这么说。 -->
 "That would bring balance to life," they would say.
 
 No one would say that.
@@ -33,18 +61,28 @@ I would say that!
 
 I would!
 
+<!-- “Am I not someone?” 可直译为 “我难道不是个人吗？”。 -->
 Am I not someone?
 
+<!-- “冷静下来，埃里克。” “settle oneself” 在这里表示让某人使自己平静下来、镇定下来 ，说话者用这句话来劝埃里克控制情绪，恢复平静的状态。 -->
 Settle yourself, Eric.
 
+<!-- 我们已经在着手进行了。
+proceeding 的音标：英 [prəˈsiːdɪŋ]；美 [proʊˈsiːdɪŋ] 。它是名词，常用含义为 “诉讼；进程；会议记录” 
+ -->
 We're already proceeding.
 
+<!-- 我只是在跟你分享我的疑虑。 -->
 I'm only sharing with you my doubts.
 
-This is what humans do.
+<!-- 这就是人类的做法。分享感受，但不会过于激动。
+“over - animated” 是一个合成词，由 “over -”（表示 “过度、超过”）和 “animated”（意为 “活跃的；栩栩如生的；动画的”）组成，意思是 “过于活跃的；过度激动的；过度动画化的” 
+ -->
+This is what humans do. Share feelings without becoming over-animated.
 
-Share feelings without becoming over-animated.
-
+<!-- 这就是殡仪师所能获取到的东西。
+mortician 的音标：英 [mɔːˈtɪʃn]；美 [mɔːrˈtɪʃn]。该词主要用于美式英语，意为 “殡仪业者；丧葬承办人”。
+ -->
 This is what the mortician was able to acquire.
 
 - [thunderclap]
