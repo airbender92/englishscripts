@@ -723,12 +723,25 @@ Can we go now?
  -->
 You should've let Alexi tell me the Bride and Nina were gone.
 
+<!-- 因为我像兄弟一样帮你忙就起诉我啊。这算什么帮忙。
+sue 的音标：英 [sjuː]；美 [suː] 。这是一个动词，常见词义为 “起诉；控告； 向… 提起诉讼；请求； 要求（尤指求婚）” 。
+“Some favor” 是一种带有讽刺意味的表达，直译为 “这算什么帮忙” ，意即所提供的帮助并未达到预期，甚至可能帮了倒忙，表达说话者不满、失望或嘲讽的情绪 。
+ -->
 [sighs] Sue me for being a bro and doing you a favor. Some favor.
 
+<!-- 在你看来，似乎我做什么都不对。 -->
 Seems, according to you, I can't do anything right.
 
+<!-- 哦，我劝你别上演受害者心态了，想想两小时前，你还试图杀我呢。
+forego 的音标：英 [fɔːˈɡəʊ]；美 [fɔːrˈɡoʊ] 常见意思为 “放弃；摒弃；先行” ，在现代英语中，“放弃” 这一含义更为常用 。
+martyr 的音标：英 [ˈmɑːtə(r)]，美 [ˈmɑːrtər] 意为 “烈士；殉道者；殉教者；乞怜者（向人诉苦以博取同情）”；作动词时，意思是 “杀害（坚持信仰者）；使殉难；折磨” 。
+“complex” 英 [ˈkɒmpleks]；美 [kəmˈpleks]情结：心理学术语，指一种无意识的心理状态，由被压抑的情感和思想组成，常影响人的行为和态度。
+ -->
 Oh, I'd forego the martyr complex, considering two hours ago, you were trying to murder me.
 
+<!-- 将军，这家伙是个卑鄙的纳粹分子吗？
+dirty 的音标：英 [ˈdɜːti]；美 [ˈdɜːrti]不道德的；不正当的
+ -->
 Is this one a dirty Nazi, General?
 
 [gun cocking]
@@ -739,18 +752,29 @@ No, he's not a Nazi, GI.
 
 Where are we going, General Flag?
 
+<!-- 这些就是他们体内的追踪器。
+trackers 的音标：英 [ˈtrækəz]，美 [ˈtrækərz] 。它是 tracker 的复数形式，常见释义为 “追踪者；跟踪器；追踪设备” 。
+ -->
 These are the trackers in their bodies.
 
 - [beeping]
+
 - You know where this is?
 - Da.
 - Go, then. Go.
 - [clicks]
 - [Alexi chuckles]
+
 Adventure!
+
 We are coming.
 
+<!-- “Wassup?” 是 “What's up?” 的非正式、口语化表达
+打招呼：类似于 “Hello”“Hi” ，但更随意、亲切，通常用于熟人之间，说话者并非真的想询问具体事情，只是一种轻松的问候方式。
+询问情况：意为 “怎么了？发生什么事了？” ，用于询问对方有什么新鲜事、有什么问题或当前状况如何。例如，看到朋友表情不对，你可以问 “Wassup?” ，此时对方可能会详细讲述遇到的事情。
+ -->
 Wassup?
+
 [tires screeching]
 Ah! [grunts]
 [splashing]
@@ -856,8 +880,9 @@ by the US government?
 [wheezing]
 - [thuds]
 - [groans]
-Well, I have a message
-for your leaders.
+
+<!-- 嗯，我有个口信要带给你们的领导。 -->
+Well, I have a message for your leaders.
 [warbling]
 - [Bride grunts]
 - [screaming]
@@ -869,9 +894,14 @@ for your leaders.
 - [exclaims]
 [panting]
 - [radio static]
+
 - General Flag, come in.
+
 Nina? What the hell are
 
+<!-- 我们正遭到喀耳刻（Circe）和她的部队攻击。
+troops 的音标：英 [truːps]；美 [truːps]。它是 troop 的复数形式，常见词性为名词，含义如下：部队；军队：指有组织的士兵群体。
+ -->
 [Nina] We're being attacked by Circe and her troops.
 
 - We
