@@ -167,8 +167,10 @@ Don't worry.
 
 You're such a kind man.
 
+<!-- 这在波科利斯坦（虚构地名）可是极为罕见的。 -->
 That is so rare here in Pokolistan.
 
+<!-- 我猜今晚并非你初次参战。 -->
 I suppose tonight was not your first battle.
 
 [thunder rumbling]
@@ -177,6 +179,9 @@ I suppose tonight was not your first battle.
 [Nina] Are those your parents?
 - Tsk.
 
+<!-- 别对我咂嘴（表示不满）。
+“tsk” 常见作象声词，模拟咂嘴的声音，表达不满、责备等情绪，此处用作动词。
+ -->
 - Don't tsk me.
 
 That's not cool.
@@ -185,19 +190,29 @@ You can say "no."
 
 How would I know who they are?
 
-[Nina] This was his home for work.
-Not the family's.
+[Nina] This was his home for work. Not the family's.
 
-
+<!-- 他们住在这条路的前方。
+up the road: 沿马路往前：表示沿着道路朝着某个方向前行一段距离; 在马路更远处：强调在道路上距离当前位置有一定距离的地方。
+ -->
 They lived up the road.
+
 [sighs]
 Whoa.
 
+<!-- 我父亲是位科学家，但他从未拥有过像这样的东西。 -->
 My father was a scientist, but he never had anything like this.
 
+<!-- 维克多，即便不说别的，他也是个叛徒。
+“if nothing else” :至少；就算别的都不……：用于强调某事物最起码具有某种特质或能起到某种作用.;; 即便不说别的；即使没有其他的（原因）：引出一个退一步的观点，暗示即便不考虑其他因素，仅从所提及的这一点来看，情况也是如此。
+renegade 的音标：英 [ˈrenɪɡeɪd]；美 [ˈrenɪɡeɪd]意为 “叛徒；变节者；叛逆者” 
+ -->
 Victor was, if nothing else, a renegade.
+
 [thunderclap]
+
 Here.
+
 - I was born here.
 - [thunderclap]
 - [electricity crackling]
@@ -213,20 +228,43 @@ Here.
 
 I picked her these flowers.
 
+<!-- 她必须镇定下来。
+“gather her senses” 常见的意思是 “使她恢复理智；让她镇定下来；使她清醒过来” ，强调从混乱、慌张或失控的状态中恢复到能够清晰思考、冷静应对的状态。
+ -->
 She must gather her senses.
 
+<!-- 婴儿出生时，她已经在母亲的子宫里亲密无间地待了九个月，因此对母亲极为熟悉。子宫是个体与宇宙、与人类脆弱社会体系的纽带。
+womb 的音标：英 [wuːm]；美 [wuːm]意为 “子宫” ，也可引申为 “孕育处；发源地”。
+intimately 的音标：英 [ˈɪntɪmətli]；美 [ˈɪntɪmətli]。由形容词 “intimate（亲密的；密切的；详尽的）” 派生而来，含义如下：
+亲密地；密切地：强调关系亲近、紧密. |  详尽地；熟悉地：表示对事物有深入、详细的了解。
+tether 的音标：英 [ˈteðə(r)]；美 [ˈteðər] （拴牲畜用的）系绳，系链
+fragile 的音标：英 [ˈfrædʒaɪl]；美 [ˈfrædʒl]脆弱的；不稳定的，用于形容局势、关系等不稳定，容易被破坏。
+ -->
 When a baby is born, she's known her mother's womb, and, therefore, her mother, intimately, for nine months. The womb is one's tether to the universe, to the fragile social system of humanity.
 
+<!-- 但你的新娘，她瞬间从默默无闻变得声名鹊起。
+bride 的音标：英 [braɪd]；美 [braɪd]意为 “新娘；即将（或刚刚）结婚的女子” 
+“in an instant” 意思是 “瞬间；立刻；马上” ，用来强调某事在极短的时间内发生
+“from nothing to something” 是一个习语，字面意思是 “从无到有”，常引申为 “从默默无闻变得有所成就；从一无所有到功成名就”，描述某人在事业、地位、财富等方面取得显著进步或提升。
+ -->
 But your bride, she came from nothing to something in an instant.
 
 [gasping]
 
+<!-- 她没有任何依靠，既不知道自己身处何方，也不认识我们是谁。-->
 She has no tether, doesn't know where she is or who we are.
 
+<!-- 她只是一团恐惧与迷茫。
+“is but” 相当于 “is only”，意思是 “只不过是；仅仅是” ，用于强调事物的程度有限或性质单纯。
+cluster 的音标：英 [ˈklʌstə(r)]；美 [ˈklʌstər] 。（同类事物的）群；簇；束；串.
+“not knowing” 在这里是名词性短语，意为 “迷茫；不知情” ，表示一种对事物缺乏认知、不确定的状态。
+ -->
 She is but a cluster of fear and not knowing.
+
 - [thuds]
 - [Bride crying]
 
+<!-- 别搅和了，亲爱的。 -->
 Stop stirring, dear.
 
 - Please.
@@ -247,41 +285,72 @@ But I But I picked these for you.
 
 That sounds horrible.
 
+<!-- 嗯，分娩向来都是极其痛苦的。
+birth: 分娩：强调生孩子的行为或过程
+ -->
 Well, birth is always horrible.
 
+<!-- 上帝赐予人类的礼物，是让人类能够忘却分娩之痛。而科学可没这么宽容。
+“forgiving” 是形容词，由动词 “forgive（原谅；宽恕）” 派生而来，常见含义如下：
+宽容的；仁慈的；宽大的：指人具有愿意原谅他人过错、不斤斤计较的品质
+ -->
 God's gift to humans is he lets you forget it. Science isn't so forgiving.
 
 I am not human.
 
+<!-- 哦，别虚张声势了，小鱼
+bluff 的音标：英 [blʌf]；美 [blʌf] 。虚张声势；吓唬：指通过言语或行为制造假象，以欺骗他人相信自己有更强的实力或决心等。
+ -->
 Oh, stop with the bluff, fish.
 
-You're the only one of us freaks who is.
+<!-- 你是我们这群怪胎中唯一如此的。我们是怪物，而你是个长着鳃的人类。
+freaks 的音标：英 [friːks]；美 [friːks] 怪人；怪事；畸形生物：指行为、外表或习惯怪异，偏离常规的人或异常的生物.
+gills 的音标：英 [ɡɪlz]；美 [ɡɪlz]是 gill 的复数形式，主要意思为 “鳃”，是鱼类等水生动物用于呼吸的器官 。
+ -->
+You're the only one of us freaks who is. We're monsters. You're a human being with gills.
 
-We're monsters. You're a human being with gills.
-
+<!-- 世人并不这么看。 
+“see it this way” 是一个常用的表达，其中 “see” 在这里不单纯表示 “用眼睛看” 这种视觉动作，而是 “理解、看待” 的意思 ，“it” 指代所讨论的事物或情况，“this way” 表示 “以这种方式” 。整体意思是 “以这种方式看待（某事）；这么理解（某事）” 。
+-->
 The world does not see it this way.
 
+<!-- 嗯，这世界什么时候正确过呢？ -->
 [sighs] Well, when has the world ever been right?
 - Hmm.
 - [creaking]
 
+<!-- 你在找什么？很快，将军就会发现我们不见了，到时候我们又得遭受那种可怕的电击了。 -->
 What are you looking for? Soon, the general is going to notice we're missing and we'll have to feel that awful shock again.
 
+<!-- 嗯，我经历过更糟糕的。我才不信你这话。 -->
 Well, I've felt worse. I do not believe you.
 
+<!-- 也许是因为我在撒谎。 -->
 Maybe 'cause I'm lying.
 
 - [objects clattering]
 
 - What are you looking for?
 
+<!-- 一条碧玺项链。
+tourmaline 的音标：英 [ˈtʊəmlɪn]；美 [ˈtɜːrməlɪn] 。该词意为 “电气石；碧玺”，是一种矿物质，常被用于珠宝制作
+ -->
 A tourmaline necklace.
 
+<!-- 它应该就在这附近某个地方
+“be here somewhere” 是一个常用的表达，其含义为 “在这附近的某个地方”
+ -->
 It should be here somewhere.
 
+<!-- 什么是碧玺？ -->
 What's tourmaline?
 
+<!-- 一种宝石。略带粉色。
+gemstone 的音标：英 [ˈdʒemstəʊn]；美 [ˈdʒemstoʊn] 。该词意为 “宝石”，是指经过琢磨和抛光后，可以用来制作首饰等装饰品的矿物或有机材料 
+pinkish 的音标：英 [ˈpɪŋkɪʃ]；美 [ˈpɪŋkɪʃ]。该词是形容词，意为 “略带粉色的；偏粉红色的” ，用于描述带有一些粉色调的颜色
+ -->
 A gemstone. Pinkish.
+
 [thunderclap]
 
 Ap-ple.
@@ -292,45 +361,68 @@ Good.
 - Hat.
 - Good.
 
+<!-- 你做得棒极了。
+fabulously 的音标：英 [ˈfæbjələsli]，美 [ˈfæbjələsli] 。这是一个副词，由形容词 “fabulous” 派生而来，常见含义为 “极其；惊人地；难以置信地” ，常用来强调程度，增强语气
+ -->
 You're doing fabulously,
 
 my dear.
 
-Why is this drudgery
+<!-- 为什么这种苦差事如此重要呢？
+drudgery 的音标：英 [ˈdrʌdʒəri]；美 [ˈdrʌdʒəri] 。该词为名词，意为 “繁重乏味的工作；苦差事” 。
+ -->
+Why is this drudgery so important?
 
-so important?
-
+<!-- 你想要一个能说话的新娘，不是吗？ -->
 You want a bride who can speak, don't you?
 
-[grunts] Words
-
-get in the way of truth, drowning out the caterwaul of one's heart.
+<!-- 言语会阻碍真相，淹没内心那如猫叫般的呼喊。
+“get in the way of” 是一个常用短语，意思是 “妨碍；阻碍；阻挡…… 的道路”
+“drown out” 的现在分词形式，其常见意思为 “淹没；压过”，尤指一种声音盖过另一种声音，也可引申为一种事物的影响或作用超过另一种事物
+“caterwaul” 音标为英 /ˈkætəwɔːl/；美 /ˈkætərwɔːl/ ，意为 “（猫）叫春；发出似猫叫春的声音；大声吵闹” 
+ -->
+[grunts] Words get in the way of truth, drowning out the caterwaul of one's heart.
 
 - [clinking]
 - [Frankenstein sighs]
+
 This.
+
 What is this?
+
 Pret-ty.
+
 Yes, it is pretty,
 
 but what is it called?
 
 Necklace.
+
 [Bride] Neck-lace.
 [thunderclap]
 
+<!-- 要是我们找到它，那我们就能回去了吗？ -->
 And if we find it, then we can go back?
 
 Yes, if we find it, we can go back.
 
+<!-- 因为你不停地抱怨和发牢骚，比被那个狂热的海军陆战队队员奴役还让人受不了。
+这里 “bitching and moaning” 表示 “抱怨、发牢骚” ；“gung - ho” 意思是 “狂热的、起劲的” ；“jarhead” 是对 “海军陆战队队员” 的俚语说法。
+“bitching” 音标：英 [ˈbɪtʃɪŋ]，美 [ˈbɪtʃɪŋ]；“moaning” 音标：英 [ˈməʊnɪŋ]，美 [ˈmoʊnɪŋ] 。
+“bitching” 是动词 “bitch” 的现在分词形式，作形容词时，在非正式场合有 “抱怨的；发牢骚的” 之意，“bitch” 本身常见意思为 “抱怨；发牢骚” ，也有冒犯性含义 “婊子”。“moaning” 是 “moan” 的现在分词，“moan” 作动词意为 “呻吟；抱怨”，作名词表示 “呻吟声；抱怨声” ，“moaning” 可理解为 “呻吟着的；抱怨着的” 。
+enslaved 的音标：英 [ɪnˈsleɪvd]；美 [ɪnˈsleɪvd]。 enslave 的过去式和过去分词形式，意思是 “使沦为奴隶；奴役；使受控制” 。
+gung - ho 的音标：英 [ˌɡʌŋ ˈhəʊ]；美 [ˌɡʌŋ ˈhoʊ] 作形容词时，意为 “热情高涨的；起劲的；同心协力的”
+jarhead 的音标：英 [ˈdʒɑːhed]；美 [ˈdʒɑːrhed]这是一个名词，是美式英语中对 “海军陆战队队员” 的俚语称呼 
+ -->
 Because your bitching and moaning is worse than being enslaved by that gung-ho jarhead.
 
 [radio static]
 Yeah,
 
-there's two of them inside.
-
-I guess the rest are still back at the castle.
+<!-- 里面有两个（人）。我猜其余的人还在城堡那边。
+back at：“back” 在这里表示 “在原处；回到原处” ，“at” 是介词，后接地点名词，“back at + 地点” 表示 “回到或在（某个地点）” 。
+ -->
+there's two of them inside. I guess the rest are still back at the castle.
 
 - [radio beeps]
 - Okay, cool. Out.
@@ -351,20 +443,27 @@ Where is this one from?
 
 Ilana, we
 
+<!-- 我们不能再经历这种事了。 -->
 We can't go through this again.
 
 Where?
 
+<!-- 我在波斯湾被刺伤了。
+stabbed 的音标：英 [stæbd]；美 [stæbd] 。stabbed 是动词 stab 的过去式和过去分词形式，原词 stab 常见意思为 “刺；戳；捅” 。
+gulf 的音标：英 [ɡʌlf]；美 [ɡʌlf] 。作名词时，常见义项如下：海湾
+ -->
 I was stabbed in the Persian Gulf.
 
 What about this one?
 
-Ilana, I already told you, it's just not ethical for us to What about
+<!-- 伊拉娜，我已经跟你说过了，对我们而言，这么做就是不符合道德规范。那…… 又怎么样呢？
+ethical 的音标：英 [ˈeθɪkl]；美 [ˈeθɪkl] ethical 是形容词，常见意思为 “伦理的；道德的；合乎道德的” 。
+ -->
+Ilana, I already told you, it's just not ethical for us to What about 
 
-- Don't.
+- Don't. - Do not treat me like a child, Richard.
 
-- Do not treat me like a child, Richard.
-
+<!-- 你难道不知道我很快就会成为这个国家的女王，想要什么就能得到什么吗？ -->
 Don't you know I'm soon to be the queen of this country, and I get what I want?
 
 Oh, boy.
@@ -389,54 +488,79 @@ Du, du, du ♪
 General Flag?
 Uh, yeah, why?
 
+<!-- 因为应该通知他，你的两名队友已经离开了这片场地。 -->
 Because he should be informed that two of your teammates have left the grounds.
 
 Yeah, he's, uh, in there
 [Rick and Ilana moaning]
 
-Maybe your should just give him 30 seconds.
+Maybe you should just give him 30 seconds.
 
 I mean, you've seen the princess.
 
+<!-- 我不知道他怎么能坚持超过 30 秒，你觉得呢？
+“hold out” 坚持；维持：尤指在困难的情况下持续保持某种状态或抵抗压力。
+ -->
 I don't know how he could hold out for more than 30 seconds, do you?
 
 [Weasel squeaking]
 
+<!-- 啊，你说得有道理，威兹。
+“got a point” 是一个常用的口语表达，完整形式为 “have got a point”，与 “have a point” 意思相同，意为有道理、说到点子上了 ，用于认可某人所说的话合理、中肯。
+ -->
 Ah, you got a point, Weez.
 
+<!-- 他是个年纪较大的人，可能经验丰富。 -->
 He's an older guy, probably has a lot of experience.
 
+<!-- 给他整整一分钟时间。 -->
 Give him a full minute.
 
 This is not funny.
 
 Why are you smiling?
 
+<!-- 慢点，偏执狂。
+bigot 的音标：英 [ˈbɪɡət]；美 [ˈbɪɡət]。bigot 是名词，指 “偏执狂；抱偏见的人；执拗的人” ，尤指对其他种族、宗教、性别等持有顽固、不宽容偏见的人 。
+ -->
 Slow down, bigot.
 
+<!-- 我简直就是个皮包骨头的人 -->
 I'm a freaking skeleton.
 
+<!-- 看起来即便我没笑，脸上也像带着笑容。 -->
 It looks like I'm smiling even when I'm not.
 
 You are not smiling?
 
 Oh, I am.
 
+<!-- 但你看不出来。 -->
 But you can't tell that.
 
 - [banging on door]
 - [Rick and Ilana moaning]
 - [banging stops]
 - [clattering]
+
+<!-- 我现在可以敲门吗？ -->
 [sighs] May I knock now?
+
 [moaning continues]
 [moaning stops]
 [door creaking]
+
 [Bride crying] No, no.
+
 Eric, you're frightening her!
+
 [sobbing] No, no, no!
+
+<!-- 为什么她不让我碰她？ -->
 Why won't she let me touch her?
+
 [sobs echoing]
+
 [Bride] No, no, no.
 [grunts]
 - Eric!
@@ -453,8 +577,16 @@ But I love you.
 
 - You failed. You failed.
 
+<!-- 你是为我创造了她。 -->
 You made her for me.
 
+<!-- 她理应爱我！
+“is to” 是 “be to” 结构的一种形式，“be to” 常见用法及含义如下：
+表示计划、安排：类似于 “be going to”，常指按计划或正式安排将发生的事
+表示命令、指示：带有必须、应该的意味，语气较为强硬，常出现在正式的指令或规章制度中。
+表示可能性：常用于疑问句，询问事情发生的可能性.
+表示注定：强调某事是必然会发生的，是命运或某种不可抗拒的力量使然.
+ -->
 She is to love me!
 
 - [grunts]
