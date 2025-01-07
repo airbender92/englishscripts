@@ -615,6 +615,9 @@ It's a wooden horse.
 
 Yes. And it's also A toy. For children.
 
+<!-- 是的。正是如此。
+precisely 的音标：英 [prɪˈsaɪsli]；美 [prɪˈsaɪsli] 。 它是副词，常见含义为 “精确地；恰好；正是；仔细地” 。
+ -->
 Yes. Precisely.
 
 [chuckles] Hoo-hoo-hoo-hoo!
@@ -623,19 +626,28 @@ Mustache.
 [laughing]
 [Victor] Oh,
 
+<!-- 你不喜欢我留胡子的样子，对吧？ -->
 you don't like how I look with a mustache, do you?
 
-
+<!-- 我是个留着小胡子的傻男人。 -->
 [deep voice] I am a silly, mustachioed man.
 
 [laughing]
+
+<!-- 是的，亲爱的，你做得非常棒。还有你的小胡子（也很出彩）。
+fabulously 的音标：英 [ˈfæbjələsli]；美 [ˈfæbjələsli] 。这是一个副词，由形容词 “fabulous” 派生而来，常见含义如下：
+极其；非常：用于强调程度，相当于 “extremely”。
+ -->
 [in normal voice] Yes, my dear, you are doing fabulously. Mustache.
 
 [both laughing]
 
+<!-- 哦，你可真是个像狄更斯笔下人物般的人（或你真会讲故事 ）。 -->
 Oh, you're such a Dickens.
+
 [laughing]
 
+<!-- 哦，我差点忘了。我给你准备了个东西。一份礼物。 -->
 Oh, I almost forgot. I got you something. A gift.
 
 Oh. [chuckles]
@@ -654,20 +666,31 @@ You open the wrapping and inside is the gift.
 
 Oh, you want me break paper?
 
+<!-- 对，把它撕开。 -->
 - Yes, tear it off.
+
 - Oh.
+
 Oh, oh, uh Oh.
 [paper ripping]
 
+
 [Victor] Open the box.
+
 Oh.
 
+<!-- 我看到你有多喜欢它了。 -->
 I saw how much you liked it.
 
+<!-- 这是从一具尸体上得来的，对其他人来说无关紧要。
+cadavers 的音标：英 [kəˈdævəz]；美 [kəˈdævərz] 。它是 cadaver 的复数形式，意为 “尸体”，尤指用于解剖等医学用途的尸体 。
+“mattered to” 是 “matter to sb.” 的过去式，“matter to sb.” 是一个常用短语，意思是 “对某人重要；对某人有影响” 
+ -->
 It was from one of the cadavers, mattered to no one,
 
 so I thought [scoffs]
 
+<!-- 来，让我帮你戴上（穿上 / 放上等，需根据具体物品确定准确含义 ） -->
 Here, let me put it on for you.
 
 There.
@@ -694,6 +717,10 @@ Can we go now?
 - [explosion]
 - [Bride screams]
 
+<!-- 你本应该让阿列克西告诉我新娘和尼娜已经离开了。
+“were gone” 是 “be gone” 的一般过去时形式，常见含义如下：
+离开：强调人或物从某地离去。
+ -->
 You should've let Alexi tell me the Bride and Nina were gone.
 
 [sighs] Sue me for being a bro and doing you a favor. Some favor.
