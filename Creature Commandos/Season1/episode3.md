@@ -40,20 +40,41 @@ Once the enemy is in your sights, attack, and don't stop until they're all dead 
 -->
 You gettin' the hang of this, Tin Man?
 
+<!-- 当然可以，先生。
+“Most certainly” 常见释义为 “当然；肯定；毫无疑问”，用于强调对某事的强烈肯定或同意 。
+ -->
 Most certainly, sir.
 
+<!-- 很好。我和Easy经历过这种事不止一次了。
+"Been through this" 的意思是“经历过这种事”或“经历过类似的情况”。它暗示对某种情境已经有经验或熟悉。
+ -->
 Good. Me and Easy been through this more than a few times.
 
+<!-- 只要跟着我们做就行了。 -->
 Just follow our lead.
 
+<!-- 德军应该就在前方不远处。
+“Up ahead” 的意思是“在前方”或“向前的地方”。这是一个常用短语，通常用来描述一个比当前所在位置更靠前的地方，带有明确的方向感。
+ -->
 German forces shouldn't be too far up ahead.
 
+<!-- 我们只需要出其不意地对付他们。
+“Take 'em by surpri” 是 “take them by surprise” 的省略形式，意思是“让他们感到意外”或“出其不意地行动”。
+ -->
 We just need to take 'em by surpri
 
 [twig breaking]
 
+<!-- 神枪手，你看到目标了吗？
+“Sure Shot” 字面意思是 “百发百中的射击”，常用来称呼射击精准的人，即 “神枪手” 。
+“got eyes” 在这里意译为 “看到目标” ，是一种在特定情境（如军事行动、追踪等）下的口语化表达。
+ -->
 Sure Shot, you got eyes?
 
+<!-- 先生，刚抵达新月地带。
+crescent 的音标：英 [ˈkresnt]；美 [ˈkresnt] 。
+作为名词，它意为 “新月；新月形物；伊斯兰教的新月标志” ；作形容词时，意思是 “新月形的；逐渐增加的” 。
+ -->
 Just arrived at the crescent, sir.
 
 Let me Sergeant, get out of there!
